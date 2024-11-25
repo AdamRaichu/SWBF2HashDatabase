@@ -7611,7 +7611,6 @@ Power
 PowerModifier
 PowerModifierWhenFired
 PowerUp
-PQ+2
 Pre_Corvus
 PreBuffer
 PreDestructionDamageThreshold
