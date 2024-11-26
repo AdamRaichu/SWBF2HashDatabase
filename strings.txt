@@ -1114,6 +1114,7 @@ Balance
 BanAiFromSpecificSeat
 BankingSpeed
 BAP
+BAR
 BarColor
 BarHeight
 Bark01
@@ -1188,6 +1189,7 @@ BermudaRifleHeatMultiplier
 BerserkTactic
 BestTargetAngle
 bet
+bevel
 BF02
 BF03
 BF04
@@ -1362,6 +1364,7 @@ BuddyVehicle
 BuddyVehicleID
 BuddyVehicleIDOverride
 BuddyVehicleOverride
+buffed
 Buffer
 Buffered
 BufferingStart
@@ -1592,6 +1595,7 @@ cellsize
 CellSize
 center
 Center
+centered
 Centered
 CenterOfMassVerticalScale
 ChallengeAward
@@ -1708,6 +1712,7 @@ CinematicStarted
 CinematicStopped
 Claimed
 ClaimReservation
+clamp
 ClampsHealth
 ClampVerticalNavPosSearchMeters
 ClampVerticalNavPosSearchMeters_Mode9
@@ -1769,6 +1774,7 @@ Cluster2_Destroyed
 Cluster2Destroyed
 Cluster3
 Cluster3_Destroyed
+clustered
 CO-OP
 CoarseSimulation
 CockpitCameraTransform
@@ -1873,6 +1879,7 @@ Console
 ConstantFalloff
 ConstraintFollowTransform
 ConstraintPriority
+consumed
 ConsumedEventsInfo
 ConsumeSpace
 container
@@ -2157,6 +2164,7 @@ Damping
 DampingPerAxis
 DampingSpread
 DarkAdaptationTime
+darkness
 Darkness
 DarkSide
 DarthMaul
@@ -2208,7 +2216,9 @@ DecayRate
 Decelerate
 Deceleration
 Decimals
+decrease
 Decrement
+deduct
 default
 Default
 DEFAULT
@@ -2358,6 +2368,7 @@ DepthCheckMaxDistance
 DepthTest
 DepthTestingEnabled
 Desaturation
+descent
 Description
 DescriptionLocalizedStringId
 DescriptionStringId
@@ -2388,6 +2399,7 @@ DF9_HeatMultiplier
 DH17
 diff
 Diff
+difference
 DifferentiatedValue
 Difficulty
 DifficultyIndex
@@ -2489,6 +2501,7 @@ DistributedEffectHash
 DistToEdgeMax
 DistToEdgeMin
 DLT19
+docked
 DodgeDirection
 Doku
 Done
@@ -2565,6 +2578,7 @@ E
 E-WEB_Health
 E-WEB_HeatMultiplier
 E11
+earned
 East
 Easy
 EditorPropertyType
@@ -2997,6 +3011,7 @@ FilterTags
 FilterTargetTags
 FilterType
 FilterValue
+Fin.
 FindFriendlySpawnPositionAttemptCount
 FingerL_01
 FingerR_01
@@ -3719,6 +3734,7 @@ Grievous
 Grievous_ClawRushEnd
 Grievous_ThrustSurge_InLoop_Bool
 Grievous_ThrustSurgeAttack
+ground
 GroundBlast
 GroundHeight
 GroundOnslaught
@@ -3760,6 +3776,7 @@ H5
 H6
 Hack
 hacked
+hacking
 HackingInProgress
 HackingValue
 HackToSolveRealTimeTweakingIssue
@@ -4026,6 +4043,7 @@ HudIndicatorIcon
 HudScreensDefinition
 Hue
 Hull
+human
 HumanPitch
 HumanPlayerControlled
 HumanTargetPreference
@@ -5570,6 +5588,7 @@ LanguageIndex
 Languages
 LanguagesString
 LanguageStringId
+laps
 Large
 LargeGameTile
 LargeWaveReduction
@@ -6291,6 +6310,7 @@ ModifierData
 ModifierIcon
 ModifiersMetaData
 ModifiesAbilityId
+modify
 ModifyAmount
 ModifyHeat
 Momentum
@@ -6388,6 +6408,7 @@ MovingPosition
 MPMode
 MR
 MsgId
+multi
 Multiline
 MultiPlayer
 MultiPlayerBehavior
@@ -6441,6 +6462,7 @@ NearTargetDetonation
 Neck
 Neck1
 Neck1BindPose
+needed
 NeedsRestart
 NeedsTriggerResult
 NeighborDistance
@@ -7630,6 +7652,7 @@ Prestige
 prev
 Prev
 PrevAreaTimeRemainingProperties
+previous
 PreviousHealth
 PreviousSpawnsRemembered
 PreviousTeamOwner
@@ -7724,8 +7747,10 @@ PushForce
 pv
 pw
 Qh
+QRP
 Qt
 QTE
+QTY
 qU
 QualifiedTypeName
 QueenHoneyBee
@@ -7786,6 +7811,7 @@ RadiusFar
 RadiusMultiplier
 RadiusNear
 RagdollEnabled
+rage
 RailRideHeli
 RainAmount
 Random
@@ -8609,6 +8635,7 @@ SingleShot
 size
 Size
 SizeHandling
+skew
 Skillpoint
 Skillpoints
 SkillPoints
@@ -8678,6 +8705,7 @@ SoloStarfighter4Onslaught
 SoloStarfighter5Onslaught
 SoloStarfighter6Onslaught
 SolveOnRenderSide
+SOP
 SortAlgorithm
 SortingPriority
 SortingStrategy
@@ -9069,6 +9097,7 @@ StopTrailEffectOnUnspawnFrameDelay
 stopwatch
 StopWatch
 StopWritingContinously
+stored
 StoredEnglishText
 StoredLocalizedStringId
 StoreList
@@ -9231,6 +9260,7 @@ TacticalSpawnTransform
 TacticCondition
 TagAttackerSelectionOverrideTime
 TagAttackerValidityTime
+tagged
 TaggedTargetCooldown
 Tags
 Tail
@@ -9241,6 +9271,7 @@ TakeInput
 Taken
 TakeScreenshot
 TakesDamage
+talking
 TalkingHead
 Tall
 target
@@ -9459,6 +9490,7 @@ ThrottleInputParameter
 throw
 Throw
 ThrowOutSoldierInsideOnWaterDamage
+thrust
 ThrusterLeft
 ThrusterLeftCentre
 ThrusterRight
@@ -10415,6 +10447,7 @@ Xwing1Chaser
 Xwing2Chaser
 y
 Y
+yaup
 yaw
 Yaw
 yaw1
