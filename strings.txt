@@ -1,5 +1,12 @@
 _Transform
+- .?AVIrSinh@@
+- CEEEEI
 - D#C<D
+- Locale22
+- NtGdiDdDDIPresentRedirected
+- The DxgkDdiOPMConfigureProtectedOutput function cannot enable HDCP because the display adapter's HDCP hardware is already being used by other physical outputs.
+- The modem did not accept the command sent to it.
+:S8g7
 !APVehicleSpawn_Enabled_Attack_END
 !APVehicleSpawn_Enabled_Attack_FEL
 !APVehicleSpawn_Enabled_Attack_GEO
@@ -18,20 +25,29 @@ _Transform
 !APVehicleSpawn_Enabled_Defend_TAKO
 !APVehicleSpawn_Enabled_Defend_THEE
 !APVehicleSpawn_Enabled_Defend_YAV
+];B6
 ].
 ]$+5P
 ]9
+]Es#JiM
 {(
 }]
 }kg(p
+}o7CR
 @_
 @?
 @"AKr
 @[
+@&y@@
 @^
 /4H7p3
+&@.3]
 `!4
+^_y9W_Z
+<$:a4b:
 <Default>
+<E9 8c8
+>&#$
 |}
 ||
 |A>Mx
@@ -43,6 +59,7 @@ _Transform
 0.3
 0.5
 0{
+0p
 0Players
 0Q
 0r
@@ -51,6 +68,7 @@ _Transform
 0t
 0u
 0v
+0V
 0w
 1
 1 Engine
@@ -109,6 +127,7 @@ _Transform
 2R
 2S
 2T
+2uD3"D2E34DeD
 2WalkerRemain
 3
 3 Engines
@@ -139,7 +158,9 @@ _Transform
 50
 500
 5CPs
+5J;)4
 6
+6 R1
 60
 600
 6S
@@ -147,10 +168,14 @@ _Transform
 75
 7S
 8
+8."R$0
 87.57288
+8F:x8{
 9
 90
 999
+9B(V)0
+9X#?<\P4=
 a
 A
 A!=B
@@ -254,10 +279,12 @@ ActiveWeaponSlot
 Actor_Civilians_RebelCloneTrooper
 Actor_Civilians_RebelTechnician
 Actor_Weapon
+ActorEntity
 Actors
 Acts
 ActsAsHQSpawn
 ActualLocation
+ActualTargetPosition
 Add
 AddedCount
 AddedRadius
@@ -445,6 +472,7 @@ AlwaysSendEvents
 AlwaysShow
 AlwaysSpawnSoldiersInVehicles
 AlwaysUsedSavedLoadout
+AM-
 ammo
 Ammo
 AmmoInMags
@@ -738,7 +766,9 @@ AppearanceSkinIdData4
 AppearanceSkinIdData5
 Apply
 ApplyAffector
+ApplyAll
 ApplyBlastDamageToVehiclesAndCharactersInstantly
+ApplyConsoleOptions
 ApplyDamage
 ApplyFullscreen
 ApplyGravityWhenGuided
@@ -1109,6 +1139,7 @@ backstab
 Backstab
 Backward
 Backwards
+BadConnection
 BakedTexture
 Balance
 BanAiFromSpecificSeat
@@ -1170,6 +1201,7 @@ BB9EStaminaRegenDelay
 BB9EStaminaRegenSpeed
 BC
 BCD
+BEFNOP
 Begin
 Behavior
 Behavior1
@@ -1254,8 +1286,10 @@ Body_Transform
 BodyguardV2SafetySetting
 BodyText
 BodyTransform
+BombDefused
 BombDestroyed1
 BombDestroyed2
+BombDetonated
 bomber
 Bomber
 BombProgress
@@ -1382,6 +1416,7 @@ Busy
 Button
 ButtonDown
 ButtonEnabled
+ButtonIndex
 buttonL1
 buttonR1
 Buttons
@@ -1393,6 +1428,7 @@ c
 C
 C{
 C#
+C#2
 c+
 C|
 c1
@@ -1449,10 +1485,12 @@ CampaignOverType_MissionFailed_BottomlessPit
 CampaignOverType_MissionFailed_Default
 CampaignOverType_MissionFailed_QTE
 CampaignOverType_OutOfBounds_Default
+can't unroll loops marked with loop attribute
 CanAfford
 CanBeHackedAgainInstantly
 Cancel
 CancelAutoSpawn
+CancelBinding
 CancelEmote
 CanCell_01
 Cancelled
@@ -1468,6 +1506,7 @@ Cannon_03
 CannotTakeDamage
 CanRestart
 cansos
+CanSpawn
 CanSpawnOn
 CanTakeDynamicFireDamage
 CanTarget
@@ -1506,6 +1545,11 @@ CaptureFadeDistance
 CaptureFog
 CapturePoint
 CapturePointA
+CapturePointB
+CapturePointC
+CapturePointD
+CapturePointE
+captureProgress
 CaptureProgress_A
 CaptureProgress_B
 CaptureProgress_C
@@ -1535,6 +1579,7 @@ Card1AbilityId
 Card2AbilityId
 CardBackside
 CardId
+CardName
 cards
 Cards
 CardSlotIndex
@@ -1598,8 +1643,10 @@ Center
 centered
 Centered
 CenterOfMassVerticalScale
+Cf]zVU
 ChallengeAward
 ChallengeIndex
+ChallengeTitle
 ChanceOfTrue
 ChangeOfDestinationDistanceTolerance
 channel
@@ -1653,6 +1700,7 @@ CharacterPose
 CharacterRankLevel
 Characters
 Characters/Zombie/Playable/Pirate/Tattoo/Pirate_Tattoo_HibachiCookout_Override
+CharacterSpawner
 CharacterToTeleport
 CharacterTransform
 charge
@@ -1669,6 +1717,7 @@ CheckBlockedByObastacleDistance
 Checked
 CheckGroundWhenSpawned
 CheckHealthGreaterOrEqual
+CheckIsDirty
 CheckKitLimitations
 CheckMultiplayerPrivilege
 CheckOcclusion
@@ -1710,6 +1759,7 @@ CinematicName
 CinematicSettings
 CinematicStarted
 CinematicStopped
+CircleColor
 Claimed
 ClaimReservation
 clamp
@@ -1812,6 +1862,8 @@ ColorAlpha
 ColorB
 ColorBlindnessType
 ColorCondition
+ColorFlash
+ColorIntensity
 ColorOverride
 ColorSecondary
 ColorSelect
@@ -2002,6 +2054,7 @@ CriticalHitConeAngleFar
 CriticalHitConeAngleNear
 CriticallyDamagedEffect
 CriticallyDamagedEffectPosition
+CrosshairAlpha
 CrosshairOffsetZ
 CrosshairOffsetZ_Zoomed
 CrosshairPitch
@@ -2105,6 +2158,7 @@ CurrentVariation
 CurrentVelocity
 CurrentVelocityNormalized
 Curve
+CusTAcorres
 custom
 Custom Game
 CustomFormation
@@ -2119,6 +2173,7 @@ Cz
 d
 D
 D.lT
+D$`G'
 D05E
 d1
 d2
@@ -2333,6 +2388,7 @@ Defend_Phase4_Enemy_VehicleCount_PAINT
 Defend_Phase4_Enemy_VehicleCount_TAKO
 Defend_Phase4_Enemy_VehicleCount_THEE
 Defend_Phase4_Enemy_VehicleCount_YAV
+DefendArea
 DefendAreaRadius
 DefendCurrentPosition
 Defending
@@ -2429,6 +2485,7 @@ DisabledColor
 DisabledDamageThreshold
 DisabledInputs
 DisabledTimeout
+DisableFocus
 DisableIfTrackEntityIsLost
 DisableInput
 DisableInterpolationOneTickConnected
@@ -2578,6 +2635,7 @@ E
 E-WEB_Health
 E-WEB_HeatMultiplier
 E11
+e2D blendFactor
 earned
 East
 Easy
@@ -2816,6 +2874,7 @@ EraAppropriate
 Error
 ErrorCode
 ErrorMessageStringId
+ErrorText
 Escape
 escort
 EscortProgress
@@ -2924,6 +2983,7 @@ ExtraDamping
 ExtraEventPlayer
 ExtraImages
 ExtrapolateAcceleration
+ExtraRadius
 ExtraTexts
 extratime
 ExtraTime
@@ -3728,6 +3788,7 @@ Gray
 Greater
 GrenadeType
 Grid
+GridCellSize
 gridsize
 GridSize
 Grievous
@@ -3837,6 +3898,7 @@ HasTarget
 HasValidData
 HasValue
 HasVehicleDetonation
+HasVehicleTarget
 Hatch
 Hatch1
 Hatch2
@@ -3973,6 +4035,7 @@ Hide
 HideCharacter
 HideCharacterCollisionOnly
 HideCompleted
+HideContent
 HideCrosshair
 HideGroupMembers
 HideHealthNumber
@@ -3996,6 +4059,7 @@ HighlightColor
 Highlighted
 HighlightEnemy0
 HighlightEnemy1
+HighlightIntensity
 HighlightWhite
 HighlightWhite1
 HighLodDistanceThreshold
@@ -4115,6 +4179,7 @@ Imperial Combat
 Imperial Stealth
 ImperialCustomizationData
 ImperialShuttleTydirium_01_Landmark
+ImperialWin
 Impulse
 ImpulseDirection
 ImpulseMagnitude
@@ -4268,6 +4333,7 @@ InitialThrust
 InitiatorIsSelf
 InitMeshHideTime
 InitTime
+InitToLastHealthState
 InMessage
 InNeg
 InnerAngle
@@ -4328,6 +4394,7 @@ Input3 Damage
 Input4
 Input5
 Input6
+Input6S
 Input7
 Input8
 Input9
@@ -4965,6 +5032,7 @@ InputYellow
 InputYellow_IntOut
 InputYellow_Output
 InputZ
+inRange
 InRange
 InRollInput
 Inside
@@ -5026,6 +5094,7 @@ Intermission
 InternalLayerName
 interp
 Interpolate
+InterpolatedTransform
 InterpolateTowardsKillerTime
 Interpolation
 InterpolationDuration
@@ -5122,6 +5191,7 @@ IsATRT
 IsAttachable
 IsAttached
 IsAttack
+isAttacker
 IsAttacker
 IsAttacking
 IsAvailable
@@ -5268,6 +5338,7 @@ IsListActive
 IsLoaded
 IsLoading
 IsLocal
+isLocalPlayer
 IsLocalPlayer
 IsLocalPlayer0
 IsLocalPlayer1
@@ -5435,6 +5506,7 @@ itemcount
 ItemCount
 ItemData
 ItemDefAlias
+ItemDesc
 ItemDescription
 ItemDescriptions
 ItemId
@@ -5566,6 +5638,7 @@ L!
 l&F
 L8e9-
 Label
+LabelColor
 Lading
 Land
 Landing
@@ -5599,6 +5672,7 @@ Last
 LastCheckpointReached
 LastDsubLoaded
 LastKnownLocation
+LastKnownTargetPosition
 LastSaved
 LastSpawnPointGhostCount
 LateJoin
@@ -5614,6 +5688,7 @@ LayoutOverrides
 lB
 LeadershipType
 LeaveGroup
+LeaveMenu
 LeaveRemoteVehicles
 Leaves
 LeaveVehicleOnMove
@@ -5658,6 +5733,7 @@ LeftLowLeg
 LeftMiddleFoot
 LeftMiddleFootPlanted
 LeftMiddleLowLeg
+LeftMuzzle
 LeftSecGun
 LeftTransform
 LeftUpLeg
@@ -5706,6 +5782,9 @@ Light
 Light_Color
 Light1
 Light2
+Light3
+Light4
+Light5
 LightAdaptationTime
 LightBoneName
 LightDirection
@@ -5754,6 +5833,7 @@ LinkedOffset
 LinkTarget
 LinSpeedScaleCurve
 List1
+List2
 ListenerAngularVelocity
 ListensToButton
 ListensToMouse
@@ -5864,6 +5944,7 @@ LockOnDelayTime
 LockStatus
 LockTimeMultiplier
 LockVerticalRotation
+LockVisible
 Loco
 Locomotion
 LocomotionSettings
@@ -6164,6 +6245,7 @@ MilleniumFalconRey
 min
 Min
 MinActiveTime
+MinAlpha
 MinAngle
 MinBounceSpeed
 MinCollisionTime
@@ -6262,6 +6344,7 @@ Mix
 Mixed
 Mixer
 Mk,cu
+Mk,cw
 Ml
 Mm
 mMv
@@ -6487,6 +6570,7 @@ newValue
 NewValue
 next
 NextOut
+NextPose
 NI
 NIA
 Night
@@ -6549,6 +6633,7 @@ NotLoading
 NOTmode1
 NoTracking
 NotReinforced
+NotVisible
 NoUserControl
 NoVehicleCollisionTime
 nt
@@ -6639,6 +6724,7 @@ Occluded
 OccluderHighPriority
 OccluderIsConservative
 OccluderSize
+OccludingVolumes
 OccupancyLimit
 OccupiedVehicles
 OccupiedVehiclesWeight
@@ -6661,6 +6747,7 @@ OffsetBlendFactor
 OffsetStyle
 OffsetTransform
 OffsetVec
+offsetWeight
 OffsetX
 OffsetZ
 OkButtonText
@@ -6690,6 +6777,7 @@ OnApplied
 OnApply
 OnApplyFullscreenApplied
 OnApplyFullscreenUnchanged
+OnArmed
 OnAttached
 OnAutoSpawn
 OnBack
@@ -6701,11 +6789,16 @@ OnBreathOut
 OnBulletHit
 OnBump
 OnCalculate
+OnCameraChanged
 OnCameraEnter
 OnCameraLeave
 OnCapture
 OnCaptured
 OnCapturedA
+OnCapturedB
+OnCapturedC
+OnCapturedD
+OnCapturedE
 OnCapturePoint
 OnCaptureSaved
 OnChanged
@@ -6748,6 +6841,7 @@ OnDestroyed07
 OnDestroyed08
 OnDestroyed1
 OnDestroyed2
+OnDestroyedByPlayer
 OnDetonated
 OnDisabled
 OnDisabledDamage
@@ -6759,9 +6853,11 @@ OnDoubleClick
 OnDoublePlayerEvent
 OnDown
 OnDying
+OnEditAction
 OneHologram
 OneInsideAreaEventPerSoldier
 OnEnabled
+OnEngaged
 OnEnter
 OnEnter:HvsV_Intro_BobaJetPackOn
 OnEnter:HvsV_Intro_FootPlant
@@ -6781,6 +6877,7 @@ OnExecuted
 OnExit
 OnExplosion
 OnExplosionClose
+OnExplosionImpact
 OnFadeIn
 OnFail
 OnFailed
@@ -6801,6 +6898,7 @@ OnFootPlantRight
 OnFootRelease
 OnFoundGameToJoin
 OnFriendly
+OnFrontZoneDamage
 OnGameOver
 OnGameStarted
 OnHeadbutt
@@ -6827,6 +6925,8 @@ OnInteractStop
 OnInterceptedProjectile
 OnInterpolationDone
 OnInterpolationStart
+OnIntroStart
+OnIsDirty
 OnJump
 OnKeyPressed
 OnKill
@@ -6841,6 +6941,7 @@ OnLeaveEvents
 OnLeft
 OnLeftCover
 OnLeftFootPlant
+OnLeftZoneDamage
 OnLevelStarted
 OnLightsaberDeflected
 Online
@@ -6865,6 +6966,7 @@ OnLocalPlayerCollidesWithFriendly
 OnLocalPlayerEnter
 OnLocalPlayerExit
 OnLocalPlayerFriendlyFire
+OnLocalPlayerLeave
 OnLocalPlayerLosesTail
 OnLocalPlayerSpawn
 OnLocked
@@ -6887,6 +6989,7 @@ OnMatchmakingCancelled
 OnMelee
 OnMemoryEvent
 OnMouseIn
+OnMouseWheel
 OnMoveUp
 OnMovingTowards
 OnNeutral
@@ -6896,6 +6999,7 @@ OnOnlineError
 OnOptions
 OnOrbitalGogglesZoomed
 OnOrbitalStrikeTriggeredOnATAT
+OnOutroStart
 OnPatchEventBehavior
 OnPaused
 OnPickedUp
@@ -6908,6 +7012,7 @@ OnPlayerEntersVehicle
 OnPlayerEvent
 OnPlayerExit
 OnPlayerInsideVehicle
+OnPlayerIrreversiblyDead
 OnPlayerLeave
 OnPlayerSpawnDisabled
 OnPlayerSpawned
@@ -6916,6 +7021,7 @@ OnPlayerWaitingForLevelToLoad
 OnPoseChange
 OnPoseWriterAdded
 OnPoseWriterRemoved
+OnPositionChanged
 OnPreFireStart
 OnPreloaded
 OnPressed
@@ -6933,6 +7039,7 @@ OnReached3
 OnReachedEnd
 OnReachedLast
 OnReachedZero
+OnRearZoneDamage
 OnRelease
 OnReleaseControl
 OnReleased
@@ -6947,9 +7054,11 @@ OnRetrigger
 OnReturnFire
 OnRight
 OnRightFootPlant
+OnRightZoneDamage
 OnSameTrackedPlayer
 OnSave
 OnSaved
+OnSaveFailed
 OnScreen
 OnSecondary
 OnSelect
@@ -7003,8 +7112,11 @@ OnTestStart
 OnTestStarted
 OnTimerExpired
 OnToggle
+OnTopZoneDamage
 OnTrackedPlayerDestroy
+OnTrackedPlayerKill
 OnTrackedPlayerKilled
+OnTrackedPlayerKilledByEnemy
 OnTrackPlayer
 OnTrigger
 OnTriggerAnimation
@@ -7059,6 +7171,7 @@ Operators
 option
 Option
 OptionBool
+OptionContrast
 OptionData
 OptionDataFloat
 OptionDescription
@@ -7071,6 +7184,7 @@ OptionsToSet
 OptionString
 Orange
 OrbitalWorldTransform
+OrderIndex
 orig
 origin
 Origin
@@ -7204,6 +7318,7 @@ OutputsUpdated
 OutputValid
 OutputValueFlags
 OutputWorldTransform
+OutroLose
 OutroStreamedIn
 OutroTeam1
 OutTransform
@@ -7219,6 +7334,40 @@ OverHeatPenaltyTime
 OverlayAlpha
 OverlayColor
 OverlayEnabled
+Overridden_0
+Overridden_1
+Overridden_10
+Overridden_11
+Overridden_12
+Overridden_13
+Overridden_14
+Overridden_15
+Overridden_16
+Overridden_17
+Overridden_18
+Overridden_19
+Overridden_2
+Overridden_20
+Overridden_21
+Overridden_22
+Overridden_23
+Overridden_24
+Overridden_25
+Overridden_26
+Overridden_27
+Overridden_28
+Overridden_29
+Overridden_3
+Overridden_30
+Overridden_31
+Overridden_32
+Overridden_33
+Overridden_4
+Overridden_5
+Overridden_6
+Overridden_7
+Overridden_8
+Overridden_9
 Override
 Override1P
 Override3P
@@ -7356,6 +7505,7 @@ PathFinding
 PathfindingBlobs
 PathfindingTypesOnLevel
 PathFollower
+PathFollowing
 PathlinkUsageType
 PatrolPath
 PatrolSpeed
@@ -7394,6 +7544,7 @@ PersonalBestData3
 PersonalBestDataCoop1
 PersonalBestDataCoop2
 PersonalBestDataCoop3
+PhantomEntity
 PhantomTransform
 PharD
 Phase
@@ -7431,6 +7582,7 @@ PhysicsMaterial
 PhysicsPartInfos
 PhysicsSimulationEnabled
 PickAbilityIndex
+PickedUp
 Pickup
 PickupId
 Pillio_Loaded
@@ -7455,6 +7607,7 @@ PitchDefaultAngle
 PitchDownAngle
 PitchDownLimit
 PitchDownScale
+PitchingComponent
 PitchInput
 PitchMaxAngle
 PitchMinAngle
@@ -7521,6 +7674,7 @@ PlayerAbilityCategory_Right
 PlayerAbilityIdentifier
 PlayerAbilityState_Recharge
 PlayerAmount
+PlayerAssists
 PlayerAvatarType
 PlayerAvatarType_Soldier_Default
 PlayerChaser
@@ -7541,6 +7695,7 @@ PlayerIndex
 PlayerInside
 PlayerIsControllableDroid
 PlayerKilledDelay
+PlayerKills
 PlayerLeft
 PlayerLives
 PlayerLost
@@ -7565,7 +7720,9 @@ PlayerState
 PlayersToAllow
 PlayersToRemember
 PlayerTarget
+playerTeam
 PlayerTeam
+PlayerToCheck
 PlayerToListenTo
 PlayerTotal
 PlayerTransform
@@ -7597,6 +7754,7 @@ PointerGameState
 PointIndex
 points
 Points
+PointTargets
 PointToOverride
 PopupResponse
 Pory
@@ -7633,6 +7791,7 @@ Power
 PowerModifier
 PowerModifierWhenFired
 PowerUp
+PQ+2
 Pre_Corvus
 PreBuffer
 PreDestructionDamageThreshold
@@ -7732,6 +7891,7 @@ ProxyConvergenceInstantOnAttach
 ProxyVisualConvergenceDelay
 ProxyVisualConvergenceDuration
 Ps
+psoAK
 pt
 PT
 Publish
@@ -7747,7 +7907,11 @@ PushForce
 pv
 pw
 Qh
+QQs
+qRoAK
 QRP
+QRS
+qSNAK
 Qt
 QTE
 QTY
@@ -7895,6 +8059,7 @@ RebelCustomizationData
 RebelsProgress
 RebelsWin
 RebelVictoryFulfillment
+RebelWin
 ReceivesExplosionDamage
 recharge
 Recharge
@@ -8026,6 +8191,7 @@ ResetOutputsWhenAllHasTriggered
 ResetPartnerHand
 ResetPlayer
 ResetProgress
+ResetState
 ResetTeamOnLastPlayerExits
 ResetTime
 ResetTimeOnStarted
@@ -8051,6 +8217,7 @@ RestrictToLinkedSoldiers
 result
 Result
 ResultCount
+ResultString
 Resume
 ret
 ReticuleTransform
@@ -8120,8 +8287,10 @@ RightLowLeg
 RightMiddleFoot
 RightMiddleFootPlanted
 RightMiddleLowLeg
+RightMuzzle
 RightSecGun
 RightTransform
+RightUp
 RightUpLeg
 RightUpLegHinge
 RightUpLegTwist
@@ -8180,6 +8349,7 @@ RoundStarts
 RoundTime
 RouteA
 RouteB
+RouteWaypoints
 rowcount
 RowCount
 RowIndex
@@ -8197,9 +8367,11 @@ S
 S &n
 S_HOTH_FightersEnabled
 S_MOS_FightersEnabled
+s,[%7
 s,c{s
 s,c{sp
 s,cVV
+s,czW]
 S@
 S`
 S0450_Takeoff
@@ -8302,9 +8474,12 @@ ScreenSize
 ScreenType
 Scripted_ID
 Scripted_ID_Updated
+ScrollLeft
 ScrollPosition
+ScrollRight
 ScrollTime
 SearchAreaTactic
+SearchPath
 SearchPaths
 SeasonRewardText
 SeatIndex
@@ -8368,6 +8543,7 @@ Select7
 Select8
 Select9
 SelectableAbilities
+SelectDefault
 selected
 Selected
 SelectedActIndex
@@ -8390,6 +8566,7 @@ SelectLeft
 SelectNormal
 SelectOnlyWhenFirstAvailable
 SelectRight
+SelectSoldier
 SelectStringIn0
 SelectStringIn1
 SelectStringIn2
@@ -8573,6 +8750,7 @@ ShouldLimitNElements
 ShouldPauseWhenActive
 ShouldUpdateContinuously
 Show
+ShowAction
 ShowBattlePoints
 ShowButton
 ShowCalibrationRenderOverlay
@@ -8592,6 +8770,7 @@ ShowInSpectatorUI
 ShowInWorldDebug
 ShowLicenses
 ShowLifetime
+ShowList
 ShowMarker
 ShowMilliseconds
 ShowMyselfInGroup
@@ -8664,6 +8843,7 @@ Slot2
 slotIndex
 SlotIndex
 SlotOverrides
+SlotPrimary
 Slots
 Slow
 SlowDistance
@@ -8693,6 +8873,8 @@ SoldiersInUnshieldedVehiclesWeight
 SoldiersOnFoot
 SoldiersOnFootWeight
 SoldierSpawn
+SoldierToCheck
+SoldierType
 SoldierWeapon
 SoldierWeaponUnlock
 Solo
@@ -8777,6 +8959,7 @@ SpawnPointGroup
 SpawnPointGroup1
 SpawnPointGroup2
 SpawnPoints
+SpawnPointTransform
 SpawnProbability
 SpawnProbabilityRandomType
 SpawnProbabilityRangeMin
@@ -8792,6 +8975,7 @@ SpawnSafeEnemyDistance
 SpawnsOccupyLocations
 SpawnSoldiers
 SpawnSquadOnFirstPlayer
+SpawnTargets
 SpawnTransform
 SpawnTransform1
 SpawnTransform10
@@ -8928,6 +9112,7 @@ start
 Start
 START
 Start_FX
+Start_Music
 Start_Point
 START_VO_S0300_0100
 StartActive
@@ -8954,6 +9139,7 @@ StartFlicker
 StartFX
 StartGame
 StartGameMode
+StartHighlight
 StartIndex
 StartingXPos
 StartingYPos
@@ -8972,6 +9158,7 @@ StartOutro
 StartOutroTeam1
 StartOutroTeam2
 StartOvertime
+startPoint
 StartPoint
 StartPoints
 startPos
@@ -8995,6 +9182,7 @@ StartTransform
 StartTransition
 StartTriggerLookingAt
 StartValue
+StartWave
 StartWingsOpen
 StartWipe
 StartWritingContinously
@@ -9022,6 +9210,7 @@ StatEvent
 Static
 StaticCharacterIdCollection
 StaticInstances
+StaticModelEntity
 StaticModelEntityData
 StatName
 StatParams
@@ -9081,6 +9270,7 @@ StopEngine
 StopFire
 StopFiring
 StopFX
+StopMovement
 StopMovie
 Stopped
 StopPhysicsLocoDistance
@@ -9147,6 +9337,8 @@ String9
 StringColor
 StringHash
 StringId
+StringIn0
+StringIn1
 StringIn2
 StringOut
 StringResult
@@ -9186,6 +9378,7 @@ SuppressDamageByPassengers
 SuppressedInputs
 Suppression
 SuppressionData
+SuppressionLevel
 SuppressionValue
 SupremacyMode
 SurroundCapture
@@ -9206,6 +9399,8 @@ Swell
 Swing
 SwingOffset
 Switch
+SwitchTeam
+SwitchToFirstPerson
 Swivel
 SwordAttackDistanceMetersMax
 SwordAttackDistanceMetersMin
@@ -9232,6 +9427,10 @@ T08
 T09
 t1
 T1
+T10
+T11
+T12
+T13
 T14
 T15
 T16
@@ -9356,6 +9555,7 @@ TargetWeightMultiplier
 TargetWorldPos
 Taunt
 Tauntaun
+TD0e1
 team
 Team
 Team 1 Presence
@@ -9399,6 +9599,7 @@ TeamId
 TeamID
 TeamIdOut
 TeamIdOverride
+TeamIDOverride
 TeamInControl
 TeamKillWeight
 TeamList
@@ -9411,6 +9612,7 @@ TeamOverride
 TeamOwner
 Teams
 TeamsInfos
+TeamSize
 TeamSizeAP_1Player_Subtract_Mode9
 TeamSizeAP_1Player_Subtract_ModeD
 TeamSizeAP_2Player_Subtract_Mode9
@@ -9455,6 +9657,7 @@ Text
 TextAlpha
 TextAnimation
 TextColor
+TextPadding
 TextScale
 textsize
 textSize
@@ -9572,9 +9775,11 @@ Timer
 timeRemaining
 TimeRemaining
 TimerExpired
+TimerText
 TimeScale
 TimeSinceCreation
 TimeSinceReadyToSpawn
+TimeSinceTargetVisible
 TimeSinceVisible
 TimeString
 TimeThreshold
@@ -9592,6 +9797,7 @@ TimeToStopCameraOnRevive
 TimeTreshold
 TimeUntilTail
 TimeUntilTailLost
+tip
 TitanAttackingTeam
 TitanDefendingTeam
 TitanMode
@@ -9606,6 +9812,8 @@ ToeL_03
 ToeR_03
 toggle
 Toggle
+ToggleLeft
+ToggleRight
 ToggleSprint
 ToggleSprintThreshold
 Tolerance
@@ -9826,6 +10034,7 @@ UG_VehicleIonWeapons
 UH
 UH.Q
 UI
+UI/Assets/Customize/Soldier/MouthProp/Soldier_MouthProp_OctopusBeard
 UIDataTag
 UIIdentifierHash
 UIInput
@@ -9848,6 +10057,7 @@ Ultra
 uN
 UN
 Unavailable
+UnblockInput
 Uncommon
 Undefined
 Undeploy
@@ -9892,6 +10102,7 @@ Unpause
 Unspawn
 UnSpawn
 UnspawnAfterDetonationDelay
+UnspawnAll
 UnSpawnAllSoldiers
 UnspawnPlayer
 Unspot
@@ -9998,6 +10209,7 @@ UseSkyVisibilityAsMask
 UseSoloStats
 UseSpineXFor1p
 UseSpottingTargetComponentForRaycast
+UseSquadSpawn
 UseSwordAttackingAbilitiesFromMeters
 UseTargetOverride
 UseTargetPositionOverride
@@ -10204,6 +10416,7 @@ Voip_Muted
 Voip_Speaking
 VoipMuted
 Volume
+VolumeTargets
 VolumeVectorShapeData
 VoObjectPropertiesArray
 Vp
@@ -10286,6 +10499,8 @@ Waypoint
 Waypoints
 WaypointsSpeedScale
 WaypointTransform
+wCgZB
+Weakspot
 WeakSpotDamageMultiplier
 weapon
 Weapon
@@ -10443,6 +10658,7 @@ WSPlayerKilledType_Suicide
 x
 X
 XOffset
+XPpp@
 Xwing1Chaser
 Xwing2Chaser
 y
@@ -10458,6 +10674,7 @@ YawCurve
 YawCushionAngle
 YawCushionSoftness
 YawDefaultAngle
+YawingComponent
 YawInput
 YawInputAction
 YawInputParameter
@@ -10479,6 +10696,7 @@ YOffset
 YY[["
 z
 Z
+Z%&Y7
 z1
 zero
 Zero
