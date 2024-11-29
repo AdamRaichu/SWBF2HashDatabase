@@ -8477,7 +8477,9 @@ Scripted_ID_Updated
 ScrollLeft
 ScrollPosition
 ScrollRight
+ScrollTarget
 ScrollTime
+ScrollValue
 SearchAreaTactic
 SearchPath
 SearchPaths
@@ -9097,7 +9099,12 @@ StarCard
 starcard1
 StarCardCollectionData
 StarCardData
+StarCardDuration
+StarCardEquipped
 StarcardJetpack
+StarCardLevel
+StarCardProgress
+StarCardRarity
 Starcards
 StarCards
 StarCards1
