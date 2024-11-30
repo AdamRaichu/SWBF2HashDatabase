@@ -1830,6 +1830,7 @@ CoarseSimulation
 CockpitCameraTransform
 Code
 CollectionB
+CollectionProvider
 CollectionReady
 ColliderTransform
 Collision
@@ -8832,6 +8833,7 @@ SkinUnlockIds
 Skip
 SkipLobby
 Skirmish
+SkirmishLevel
 SkirmishScenariosDefinition
 SkyReflectionEnable
 SkyVisibilityParam
