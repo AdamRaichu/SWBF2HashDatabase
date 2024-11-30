@@ -6,7 +6,6 @@ _Transform
 - NtGdiDdDDIPresentRedirected
 - The DxgkDdiOPMConfigureProtectedOutput function cannot enable HDCP because the display adapter's HDCP hardware is already being used by other physical outputs.
 - The modem did not accept the command sent to it.
-:S8g7
 !APVehicleSpawn_Enabled_Attack_END
 !APVehicleSpawn_Enabled_Attack_FEL
 !APVehicleSpawn_Enabled_Attack_GEO
@@ -25,40 +24,11 @@ _Transform
 !APVehicleSpawn_Enabled_Defend_TAKO
 !APVehicleSpawn_Enabled_Defend_THEE
 !APVehicleSpawn_Enabled_Defend_YAV
-];B6
-].
-]$+5P
-]9
-]Es#JiM
-{(
-}]
-}kg(p
-}o7CR
-@_
-@?
-@"AKr
-@[
-@&y@@
-@^
-/4H7p3
-&@.3]
-`!4
-^_y9W_Z
-<$:a4b:
 <Default>
-<E9 8c8
->&#$
-|}
-||
-|A>Mx
-|MHz1
 0
-0,q
-0,w
 0.0
 0.3
 0.5
-0{
 0p
 0Players
 0Q
