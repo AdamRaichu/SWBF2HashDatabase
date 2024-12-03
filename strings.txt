@@ -1,9 +1,6 @@
 _Transform
 - .?AVIrSinh@@
 - CEEEEI
-- D#C<D
-- Locale22
-- NtGdiDdDDIPresentRedirected
 - The DxgkDdiOPMConfigureProtectedOutput function cannot enable HDCP because the display adapter's HDCP hardware is already being used by other physical outputs.
 - The modem did not accept the command sent to it.
 !APVehicleSpawn_Enabled_Attack_END
@@ -31,7 +28,6 @@ _Transform
 0.5
 0p
 0Players
-0Q
 0r
 0r0
 0s
@@ -138,7 +134,6 @@ _Transform
 75
 7S
 8
-8."R$0
 87.57288
 8F:x8{
 9
@@ -896,8 +891,6 @@ ArraySize
 Arrow
 ArrowColor
 Article
-Aryl
-Aryn
 Ascending
 Aspect
 AspectRatio
@@ -2143,7 +2136,6 @@ CycleTargets
 Cz
 d
 D
-D.lT
 D$`G'
 D05E
 d1
@@ -7141,18 +7133,35 @@ Operator
 Operators
 option
 Option
+OptionAbilities
 OptionBool
+OptionCaptureBar
 OptionContrast
+OptionDamageIncrease
+OptionDamageReduction
 OptionData
 OptionDataFloat
 OptionDescription
 OptionFloat
+OptionGameModeBar
+OptionGameModeProgress
 OptionIndex
 OptionInt
+OptionKillLog
+OptionKillMessage
 OptionName
+OptionNametags
+OptionRadar
+OptionRankUp
+OptionScoreLog
+OptionSquadList
+OptionStarcards
 OptionsToKeep
 OptionsToSet
 OptionString
+OptionTalkingHead
+OptionTutorial
+OptionWeaponHints
 Orange
 OrbitalWorldTransform
 OrderIndex
@@ -8335,16 +8344,8 @@ RunUp
 RZ-2A-Wing
 s
 S
-S &n
 S_HOTH_FightersEnabled
 S_MOS_FightersEnabled
-s,[%7
-s,c{s
-s,c{sp
-s,cVV
-s,czW]
-S@
-S`
 S0450_Takeoff
 S0600_Takeoff
 SaberOnOff
@@ -10671,7 +10672,6 @@ Yellow
 YMult
 Yoda
 YOffset
-YY[["
 z
 Z
 Z%&Y7
