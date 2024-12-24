@@ -394,11 +394,14 @@ AllowEmptyListToInteract
 AllowEvasiveManouversOOB
 AllowFire
 AllowFireWhileFollowing
+AllowFiring
+AllowFlyBy
 AllowGameplayBotsToJoinPlayerSquads
 AllowGrenades
 AllowHumanToEnterAllSeats
 AllowImpulseReactionDuringScenarioWaypoint
 AllowJumping
+AllowLoop
 AllowMissileLock
 AllowMoreInteractors
 AllowMovementInsideBounds
@@ -409,6 +412,7 @@ AllowOccupant
 AllowOverlappingVolumes
 AllowRandomPathSpread
 AllowRemoteControlledVehicles
+AllowReset
 AllowRespawn
 AllowSelectPrevious
 AllowSuicide
@@ -885,6 +889,7 @@ ArmR_02
 Around the player
 Around the player 2
 Array
+ArrayDestroyed
 ArrayIndex
 ArrayInput
 ArraySize
@@ -1230,7 +1235,6 @@ BlockNavigationUp
 BlockSpotting
 BlockZoom
 BloomScale
-bloomuv_1500 = _1499;
 Blue
 Blueprint
 BlueprintHash
@@ -1357,6 +1361,7 @@ BuddyID
 BuddyIDOverride
 BuddyOverride
 BuddyShriv
+BuddySpawn
 BuddyVehicle
 BuddyVehicleID
 BuddyVehicleIDOverride
@@ -1999,6 +2004,7 @@ Crait_AA_HeatMultiplier
 CraitTurret_Health
 CrateBg
 Create
+CreateArray
 CreateAvoidanceForOtherDetectors
 CreateDistanceMinRange
 CreateGroup
@@ -2720,6 +2726,7 @@ EnableShootspaceConvergence
 EnableSimulation
 EnableSoftCollision
 EnableSounds
+EnableSpawn
 EnableStreaming
 EnableSubRealm
 EnableTargetTracking
@@ -3007,6 +3014,7 @@ FarFadeEndDistance
 FarFadeStartDistance
 FarPlane
 Fast
+FastSpawn
 FastSpawnManager
 FBE
 FEL_ATTE_Hitpoints
@@ -3080,6 +3088,7 @@ FlagPickedUp
 FlagReturned
 flags
 FlagsInPhase
+FlagSpawn
 Flame
 Flamethrower
 FlameTrooper
@@ -4288,6 +4297,7 @@ InitializeProperty
 InitiallyEnabled
 InitialOwner
 InitialRespawnDelay
+InitialSpawn
 InitialSpawnDelay
 InitialSpeed
 InitialState
@@ -5014,6 +5024,7 @@ InstantAttachableTestUnderReticule
 InstantAttachableVisualConvergenceDelay
 InstantAttachableVisualConvergenceDuration
 InstantHit
+InstantSpawn
 InStarfighterDeath
 int
 Int
@@ -5124,13 +5135,11 @@ IronsightsDofActive
 IronsightsDofCircleBlur
 IronsightsDofCircleDistance
 Is
-Is0Q
 is1p
 Is1p
 Is3p
 Is3P
 Is47
-Is56
 IsAbility
 IsActivated
 IsActivating
@@ -5190,7 +5199,6 @@ IsCriticalHit
 IsCurrentlyBeingCaptured
 IsCurrentPhase
 ISD
-IsD,
 IsDarkSide
 IsDay
 IsDead
@@ -5338,7 +5346,6 @@ IsNewThingAvailable
 IsNormalMap
 IsNull
 ISO
-IsO'
 isObjective
 IsObjective
 IsObjectiveText
@@ -5354,6 +5361,7 @@ IsOnPath
 IsOnslaught
 IsOpen
 IsOutOfBounds
+IsOutOfRange
 IsOverheated
 IsOvertime
 IsOwned
@@ -5395,6 +5403,7 @@ IsSentry
 IsShocked
 IsShooting
 IsSimple
+IsSimpleSpawn
 IsSinglePlayer
 IsSkirmish
 IsSkirmishBlast
@@ -6538,10 +6547,10 @@ NI
 NIA
 Night
 NKr
-nO
 NoAbilities
 NoClustersDestroyed
 NoCollision
+NoColor
 NoCPs
 NodeIndex1
 NodeIndex2
@@ -6554,6 +6563,8 @@ NoKillCardText
 NoLock
 NonCampaign
 None
+NoPickup
+NoPlayer
 NoProgress
 NOR
 norm
@@ -6587,6 +6598,7 @@ NorthEast
 NorthWest
 Not A~=B
 NoTarget
+Notargets
 NotAvailable
 NotDefault
 NotEqual
@@ -6615,7 +6627,6 @@ NumTargets
 nw
 o
 O
-O 2K
 O(
 O(0
 O(3
@@ -7600,7 +7611,6 @@ PitchUpAngle
 PitchUpLimit
 PitchVelocity
 PitchZoomed
-PKFn
 Placeholder
 Planet
 planetary
@@ -7693,6 +7703,7 @@ PlayerScale
 PlayerScore
 PlayersInside
 PlayersLeft
+PlayerSpawn
 PlayerSpawned
 PlayerSpawner
 PlayerSpawnType
@@ -7737,7 +7748,6 @@ Points
 PointTargets
 PointToOverride
 PopupResponse
-Pory
 pos
 Pos
 Pos_A
@@ -7771,7 +7781,6 @@ Power
 PowerModifier
 PowerModifierWhenFired
 PowerUp
-PQ+2
 Pre_Corvus
 PreBuffer
 PreDestructionDamageThreshold
@@ -8712,15 +8721,22 @@ Shorter
 ShotFired
 ShotgunAimNoise
 ShotSpawnHeight
+ShouldAnimate
 ShouldAssignSquadGroupId
 ShouldBeExecutedByClosestAI
 ShouldBeMoving
 ShouldCheckSeatIndex
+ShouldDeselect
 ShouldDestroyBangers
 ShouldDestroyVehicles
 ShouldDetonateOnCollision
+ShouldDisable
+ShouldDisplayText
 ShoulderCharge
+ShouldEscape
 ShouldLimitNElements
+ShouldLock
+ShouldPause
 ShouldPauseWhenActive
 ShouldUpdateContinuously
 Show
@@ -8906,22 +8922,29 @@ SpatialEntity
 SpatialLimits
 spawn
 Spawn
+SpawnAssault
 SpawnAtLastSpot
 SpawnAtStart
 SpawnBuddy
+SpawnCameraTransform
 SpawnCharacter
+SpawnCharacters
 SpawnDelay
 Spawned
 SpawnEffectOnLookupLocation
 Spawner
 SpawnerHeightOffset
 Spawners
+SpawnHeavy
+SpawnInAir
 SpawnIndex
 Spawning_Allowed
 SpawningAllowed
 SpawnInVehicle
+SpawnLocation
 SpawnLocationFinder
 SpawnManager
+SpawnOfficer
 SpawnOnActivate
 SpawnOnSpawnEntityIfSpawnOnPlayerFails
 SpawnOutsideViewRadius
@@ -8947,9 +8970,12 @@ Spawns1
 Spawns2
 Spawns3
 SpawnSafeEnemyDistance
+SpawnSettings
 SpawnsOccupyLocations
 SpawnSoldiers
+SpawnSpecialist
 SpawnSquadOnFirstPlayer
+SpawnStatic
 SpawnTargets
 SpawnTransform
 SpawnTransform1
@@ -8964,9 +8990,12 @@ SpawnTransform6
 SpawnTransform7
 SpawnTransform8
 SpawnTransform9
+SpawnTurret
+SpawnVehicle
 SpawnVehicles
 SpawnWaveBuddy
 SpawnWaveInfo
+SpawnWeapon
 SpawnWeight
 Special
 SpecialIdTeam1
@@ -9258,6 +9287,7 @@ StopReadFromAnt
 StopReadingContinously
 StopRedLight
 StopSound
+StopSpawn
 StopSteamFX
 StopTime
 StopTimeline
@@ -9391,7 +9421,6 @@ SwordGuardDurationTimeMinS
 SyncTimelines
 t
 T
-T O
 T-65BX-Wing
 T-70X-Wing
 T00
@@ -9462,6 +9491,7 @@ TargetAngularVelocityOverride
 TargetApproachMaxAngle
 TargetApproachMinVelocity
 TargetArea
+TargetAreaArray
 targetCount
 TargetCount
 TargetDefeatedTeam1
@@ -9534,7 +9564,6 @@ TargetWeightMultiplier
 TargetWorldPos
 Taunt
 Tauntaun
-TD0e1
 team
 Team
 Team 1 Presence
@@ -10125,6 +10154,7 @@ UpsideDownAngle
 UpsideDownDamage
 UpsideDownDamageDelay
 UpThrust
+UseActionText
 UseActiveCharacter
 UseActualPathDistance
 UseAIScoreManager
@@ -10144,13 +10174,18 @@ UseEntityDirection
 UseEntityTransformForDetonationEffect
 UseExitPointWhenLeavingVehicle
 UseExoticAnimation
+UseExternalColor
 UseExtrapolatedLookTarget
 UseFarSpawnPoints
+UseFastSpawn
 UseForBoundingBoxCalculations
 UseHealthResolution
 UseHeightLimitsOverride
+UseIcon
 UseIESProfileAsMask
 UseImprovedPredictedAim
+UseInstantSpawn
+UseInterpolation
 UseLastGroupLevel
 UseLegacyBehavior
 UseLocalization
@@ -10163,6 +10198,7 @@ UseMinTargetDistance
 UseMinValue
 UseMouseInertia
 UseNativeFileSystem
+UseOverridePosition
 UseOverrideScale
 UseOverrideScreenPosition
 UseOwnLastPositionAsOrigin
@@ -10193,10 +10229,12 @@ UseSwordAttackingAbilitiesFromMeters
 UseTargetOverride
 UseTargetPositionOverride
 UseTargetTagsFilter
+UseTeamIDOverride
 UseTopZone
 UseTransformOverride
 UseTriggerOnMaterialOnly
 UseVariableNetworkFrequency
+UseVectorShape
 UseVehicleDeathExperience
 UseVehicleSquadSpawn
 UseVelocity
@@ -10567,6 +10605,8 @@ WipeTarget
 WipeTime
 WipeType
 Wireframe
+WithinRange
+WithinVolume
 WL
 WlkDestroy0Left
 WlkDestroy1Left
@@ -10642,7 +10682,6 @@ Xwing1Chaser
 Xwing2Chaser
 y
 Y
-yaup
 yaw
 Yaw
 yaw1
