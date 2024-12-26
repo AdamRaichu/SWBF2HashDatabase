@@ -498,8 +498,12 @@ AntGameStates
 AntialiasMultiplier
 Antievangelical
 Any
+AnyAllowVehicleSpawn
+AnyDraw
+AnyResult
+AnyTeam1Win
+AnyTeam2Win
 AnyWalkerVulnerable
-AOQ
 AP_0EnemyOwned
 AP_1EnemyOwned
 AP_2EnemyOwned
@@ -1302,8 +1306,9 @@ BoostExitTime
 BoostMaxSpeed
 BoostMaxSpeedMultiplier
 BoostMaxSpeedOverride
+BoostOff
+BoostOn
 BoostSpeed
-BOQ
 BorderColor
 bossk
 Bossk
@@ -1621,6 +1626,7 @@ channel
 Channel
 Channels
 ChannelSelect
+ChannelSelect2
 Character
 CharacterBlueprintOverride
 CharacterClass
@@ -1999,6 +2005,7 @@ CPSpawnEnabled_Mode8
 Craft
 CraftAmount
 CraftedItem
+CraftedItemId
 CraftOffer
 Crait_AA_HeatMultiplier
 CraitTurret_Health
@@ -2781,6 +2788,8 @@ EnginePower
 Engines
 EnginesHealth
 EnginesMaxHealth
+EnginesOff
+EnginesOn
 EngineStart
 EngineStrength
 EngineTimeToIgnition
@@ -3885,6 +3894,7 @@ HeadCollision
 Header
 HeaderIcon
 HeaderString
+HeaderStringId
 HeaderText
 Headline
 HeadMaterialPair
@@ -3979,6 +3989,7 @@ Heroes_MaxCount_Team2
 HeroesOnly
 HeroEvadeAttackBlockEnabled
 HeroEvadeAttackBlockTime
+HeroId
 HeroID
 HeroIndex
 HeroJump
@@ -4308,6 +4319,7 @@ InitMeshHideTime
 InitTime
 InitToLastHealthState
 InMessage
+InMessageId
 InNeg
 InnerAngle
 InnerBlastRadius
@@ -6480,7 +6492,6 @@ MVPInfo
 MyTeam
 n
 N	t
-N@l'
 n1
 n2
 n3
@@ -6531,15 +6542,19 @@ NeverExitVehicleAfterEntering
 NeverReportVehicleAsEmpty
 new
 New
+NewBool
 NewObjective
 NewPosition
 NewPositionTransform
+NewProgress
 NewRank
 NewTarget
 NewThingAvailable
+NewTime
 NewTransform
 newValue
 NewValue
+NewWeapon
 next
 NextOut
 NextPose
@@ -6990,6 +7005,7 @@ OnPlayerIrreversiblyDead
 OnPlayerLeave
 OnPlayerSpawnDisabled
 OnPlayerSpawned
+OnPlayerSpawnedOn
 OnPlayerSpawnEnabled
 OnPlayerWaitingForLevelToLoad
 OnPoseChange
@@ -7199,6 +7215,7 @@ oT
 OT
 OtherPlayer
 OtherTeam
+OtherTeamId
 Ours
 out
 Out
@@ -7409,7 +7426,6 @@ p
 P
 p_loc
 p_team_id
-P@2
 p`E
 p<x
 p=~
@@ -7713,6 +7729,7 @@ PlayersToRemember
 PlayerTarget
 playerTeam
 PlayerTeam
+playerTeamId
 PlayerToCheck
 PlayerToListenTo
 PlayerTotal
@@ -8532,6 +8549,7 @@ Selected
 SelectedActIndex
 SelectedActIndexInput
 SelectedCard
+SelectedChannel
 SelectedCharacter
 SelectedColor
 SelectedDifficultyIndex
@@ -9409,6 +9427,7 @@ Swell
 Swing
 SwingOffset
 Switch
+SwitchOff
 SwitchTeam
 SwitchToFirstPerson
 Swivel
