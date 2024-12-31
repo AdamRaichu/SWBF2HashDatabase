@@ -33,8 +33,6 @@ _Transform
 0s
 0t
 0u
-0v
-0V
 0w
 1
 1 Engine
@@ -1594,6 +1592,12 @@ Case 6
 Case 7
 Case 8
 Case 9
+Case AIHealthModifier
+Case CooldownModifier
+Case EliminationBonus
+Case MinimapType
+Case PlayerHealthModifier
+Case PlayerLives
 Cases
 CaseSensitiveCompare
 CastShadows
@@ -8687,7 +8691,6 @@ Segments
 seismic
 Select
 Select0
-Select0V
 Select1
 Select10
 Select11
