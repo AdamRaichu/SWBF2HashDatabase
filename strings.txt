@@ -215,6 +215,7 @@ ActivateOnCreation
 ActivateOnGroundOnly
 ActivateOverrideOnInit
 ActivateTarget
+ActivateText
 activating
 Activating
 ActivationDelay
@@ -2264,6 +2265,7 @@ Days
 Deactivate
 DeActivate
 Deactivated
+DeactivateText
 Deactivating
 dead
 Dead
@@ -3358,6 +3360,7 @@ FrontHealthZone
 Fu
 fuel
 Fuel
+FullBlack
 FullHealth
 fullProgress
 FullProgress
@@ -3420,6 +3423,7 @@ GameModesInformation
 GameModeStart
 GamemodeStarted
 GameModeStarted
+GameModeText
 GameModeTitle
 GamepadInputScale
 GamePlatform_Gen4a
@@ -5189,6 +5193,7 @@ InterpolationType
 InterruptAction
 Interrupted
 Interval
+InText
 IntGameState
 IntHashList
 InTimeUtc
@@ -6552,6 +6557,7 @@ Modifier
 ModifierData
 ModifierIcon
 ModifiersMetaData
+ModifierText
 ModifiesAbilityId
 modify
 ModifyAmount
@@ -9112,6 +9118,7 @@ ShowFiring
 ShowForTeam
 ShowForTeamMates
 ShowGameMode
+ShowGameModeText
 ShowGrid
 ShowHatch
 ShowHealth
@@ -9123,6 +9130,7 @@ ShowIcon
 ShowInSpectatorUI
 ShowInterior
 ShowIntermission
+ShowIntermissionText
 ShowInWorldDebug
 ShowLicenses
 ShowLifetime
@@ -9608,6 +9616,7 @@ StartReload
 StartReset
 StartReturn
 StartRound
+StartRoundText
 StartRunning
 StartSequence
 StartShort
@@ -10114,12 +10123,17 @@ Text
 textAlpha
 TextAlpha
 TextAnimation
+TextAnimationProgress
 TextColor
+TextLineWidth
+TextOut
 TextPadding
 TextScale
 textsize
 textSize
 TextSize
+TextTeam1
+TextTeam2
 texture
 Texture
 TextureMappings
