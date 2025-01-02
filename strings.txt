@@ -3375,6 +3375,7 @@ Galactic
 Galactic Assault
 GalacticAssault
 Game
+GameEnded
 GameEnding
 GameLoopState
 GameLoopState_EndOfRound
@@ -5175,6 +5176,7 @@ Interior
 InteriorCam
 InteriorCamParameter
 Intermission
+IntermissionStarted
 InternalLayerName
 interp
 Interpolate
@@ -5523,6 +5525,7 @@ IsSceneChanging
 IsScriptControlled
 IsSecondary
 IsSelected
+IsSelectedTalkingHead
 IsSelfDamage
 IsSentry
 IsShocked
@@ -5885,6 +5888,7 @@ Lifetime
 LifeTime
 LifetimeCurve
 Liftoff
+LiftoffStarted
 light
 Light
 Light_Color
@@ -6048,6 +6052,7 @@ LockKitOnPlayerEnterWave
 LockLost
 LockOn
 LockOnDelayTime
+LockStarted
 LockStatus
 LockTimeMultiplier
 LockVerticalRotation
@@ -6633,6 +6638,7 @@ MoveSpeed
 MoveSpeedMultiplier
 MoveSpeedScale
 MoveSpeedState
+MoveStarted
 MoveTargetFlattening
 MoveToActionBeforeExecuting
 MoveToEntity
@@ -6643,6 +6649,7 @@ MoveToTarget
 MoveToTransform
 MoveUp
 Movie
+MovieStarted
 MovingPosition
 MPMode
 MR
@@ -6976,6 +6983,7 @@ OnClientFakeCollisionInfo-Array
 OnClientPlayerInputRecorderEntityData-Array
 OnClose
 OnClosed
+OnCloseStarted
 OnCollision
 OnColor
 OnCommand
@@ -7038,6 +7046,7 @@ OneShotQuery
 OnEvent
 OnExecuted
 OnExit
+OnExitStarted
 OnExitUp
 OnExplosion
 OnExplosionClose
@@ -7055,6 +7064,7 @@ OnFireProjectile
 OnFireRelease
 OnFireShot
 OnFireStart
+OnFireStarted
 OnFlagPickedUp
 OnFocus
 OnFootPlantLeft
@@ -7064,6 +7074,7 @@ OnFoundGameToJoin
 OnFriendly
 OnFrontZoneDamage
 OnGameOver
+OnGameplayStart
 OnGameStarted
 OnHeadbutt
 OnHealthState0
@@ -7086,6 +7097,7 @@ OnInsideArea
 OnInteract
 OnInteracted
 OnInteractStart
+OnInteractStarted
 OnInteractStop
 OnInterceptedProjectile
 OnInterpolationDone
@@ -7168,6 +7180,8 @@ OnOrbitalStrikeTriggeredOnATAT
 OnOutroStart
 OnPatchEventBehavior
 OnPaused
+OnPhase2Start
+OnPhase3Start
 OnPickedUp
 OnPlayerActivate
 OnPlayerCreate
@@ -7279,6 +7293,7 @@ OnTestEnded
 OnTestStart
 OnTestStarted
 OnTimerExpired
+OnTimerStart
 OnToggle
 OnTopZoneDamage
 OnTrackedPlayerDestroy
@@ -7396,6 +7411,7 @@ OtherTeam
 OtherTeamId
 out
 Out
+Out_CountDownStarted
 Out_Float
 Out_IntroDone
 Out_IntroStreamedIn
@@ -7406,6 +7422,8 @@ Out_StartIntro
 Out_StartOutroTeam1
 Out_StartOutroTeam2
 Out_StreamInIntro
+Out_StreamInOutroT1
+Out_StreamInOutroT2
 Out_Vec3
 Out_VictoryDeclarationTeam1Won
 Out_VictoryDeclarationTeam2Won
@@ -7739,14 +7757,17 @@ Phase 3
 Phase1
 Phase1Complete
 Phase1End
+Phase1Ended
 Phase1Started
 Phase2
 Phase2Complete
 Phase2End
+Phase2Ended
 Phase2Started
 phase3
 Phase3
 Phase3Complete
+Phase3Ended
 Phase3Started
 Phase4
 Phase5
@@ -7818,6 +7839,7 @@ PlanetIdData
 PlanetIndex
 PlanetList
 PlanetName
+PlanetNameStarted
 Planets
 PlateId
 PlateType
@@ -8336,6 +8358,7 @@ RenderTarget
 Repair
 repairable
 RepairAmount
+RepairStarted
 RepeatPlay
 ReplacedAbility
 ReplacementLocalizedStringId
@@ -9742,6 +9765,7 @@ StreamRealm
 Strength
 Strike
 Striked
+StrikeEnded
 StrikeIndex
 StrikeRadius
 StrikeWeaponId
@@ -9899,6 +9923,7 @@ TakeScreenshot
 TakesDamage
 talking
 TalkingHead
+TalkingHeadEnabled
 Tall
 target
 Target
