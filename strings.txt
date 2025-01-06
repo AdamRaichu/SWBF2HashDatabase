@@ -2946,6 +2946,7 @@ DamageOrigin
 DamagePerSecond
 DamageRadius
 DamageRank
+DamageReduced
 DamageRotation
 DamageRotationScale
 DamageScale
@@ -4654,9 +4655,11 @@ GoToCoop
 GoToCustomization
 GotoDisabled
 GoToEnd
+GotoFadeOut
 GotoHeroAppearence
 GoToInit
 GoToJump
+GotoLinkTarget
 GotoOwnerAttachement
 GoToPosition
 GoToQuickSpawn
