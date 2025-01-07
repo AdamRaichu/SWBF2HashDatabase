@@ -9190,6 +9190,7 @@ OnboardingRect
 OnBoostStart
 OnBoostStop
 OnBreathOut
+OnBuddySpawned
 OnBulletHit
 OnBump
 OnCalculate
@@ -9207,6 +9208,7 @@ OnCapturedD
 OnCapturedE
 OnCapturedEEvasiveManeuversGroundCheckHeightDistanceM
 OnCapturedObjectiveIcon
+OnCaptureed
 OnCapturePoint
 OnCaptureSaved
 OnChanged
@@ -9251,6 +9253,8 @@ OnContentStreamedOutUseTargetPositionOverride
 OnCountdownFinished
 OnCountdownStarted
 OnCraft
+OnCrafted
+OnCreated
 OnCritical
 OnDamage
 OnDamageCollisionAvoidanceAdjustmentLerpMaxAge
@@ -9290,6 +9294,7 @@ OnDestroyed2v
 OnDestroyed2w
 OnDestroyed2z
 OnDestroyedByPlayer
+OnDetached
 OnDetonate
 OnDetonated
 OnDisabled
@@ -9336,10 +9341,12 @@ OnEquipEmote
 OnEquipped
 OnEquippedObjectiveTextLocalizedString
 OnError
+OnEscaped
 OneShotQuery
 OnEvent
 OnExecuted
 OnExit
+OnExited
 OnExitStarted
 OnExitUp
 OnExitVS
@@ -9384,6 +9391,7 @@ OnGameplayStart
 OnGameplayStartOnOrbitalGogglesZoomed
 OnGameplayStartUpdatePassFlags
 OnGameStarted
+OnHacked
 OnHeadbutt
 OnHealthState0
 OnHealthState1
@@ -9442,6 +9450,7 @@ OnLand1
 OnLand2
 OnLand3
 OnLandAdditionalCurrentFrameWeight
+OnLanded
 OnLanding
 OnLateJoin
 OnLeave
@@ -9594,6 +9603,7 @@ OnResult
 OnResume
 OnRetrigger
 OnReturn
+OnReturned
 OnReturnFire
 OnRight
 OnRightFootPlant
@@ -9632,6 +9642,7 @@ OnslaughtLives
 OnslaughtTimeAdded
 OnSleep
 OnSlider
+OnSoldierSpawned
 OnSpawn
 OnSpawned
 OnSpawnPlayer
