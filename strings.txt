@@ -159,7 +159,6 @@ _Transform
 32CameraTransform
 35
 360
-3c1
 3CP
 3CPAP_Waves_PauseTime_Short_Attack
 3CPMaxValue
@@ -1741,7 +1740,6 @@ BPRate_Slow_Mode8IsPercent
 BrakeInAirInput
 BrakeInAirInputStartIndex
 BrakeInput
-BrakeInputUG_Vanguard_Chain
 BranchBreakEffect
 BranchPhysicsHeightScale
 BranchPhysicsWidth
@@ -2928,6 +2926,7 @@ damageamount
 damageAmount
 DamageAmount
 DamageAmountCrit
+DamageAmountCrited
 DamageAngle
 DamageBangers
 DamageCharacters
@@ -3543,7 +3542,6 @@ E
 E-WEB_Health
 E-WEB_HeatMultiplier
 E11
-E112
 e2D blendFactor
 earned
 East
@@ -5054,6 +5052,7 @@ gp_vehicle_tx130_Price
 gp_vehicle_uwing_gunship_EnabledAtStage
 gp_vehicle_uwing_gunship_MaxCount
 gp_vehicle_uwing_gunship_MaxCountTestCaseName
+gp_vehicle_uwing_gunship_MaxCountTestCaseNames
 gp_vehicle_uwing_gunship_Price
 gp_vehicle_vulturedroid_EnabledAtStage
 gp_vehicle_vulturedroid_MaxCount
@@ -5282,7 +5281,6 @@ health1
 Health1
 health2
 Health2
-Health2InputHighlightBoost
 health3
 Health3
 health4
@@ -5536,6 +5534,7 @@ Home
 HomeScreenCharacterAppearanceId
 HomeScreenCharacterSkinId
 HomeScreenCharacterSkinIdUnpause
+HomeScreenCharacterSkinIdUnpauseed
 HonorCode
 HonorScore
 Hope
@@ -5684,7 +5683,6 @@ in0
 In0
 In0P
 in0RollCurve
-In0S
 In0T
 In0W
 In0X
@@ -7876,7 +7874,6 @@ LocalizedStringId1
 LocalizedStringId2
 LocalizedStringId3
 LocalizedStringId3Identified
-LocalizedStringId3PreExplosionTime
 LocalizedStringId4
 LocalizedStringId5
 LocalizedStringId6
@@ -9215,6 +9212,7 @@ OnChanged
 OnCharacterHit
 OnCheckoutSuccess
 OnCheckoutSuccess!APVehicleSpawn_Enabled_Defend_HO
+OnCheckoutSuccess!APVehicleSpawn_Enabled_Defend_HOs
 OnCheckpointLoaded
 OnChinCannonActivated
 OnCleanupFinished
@@ -9388,8 +9386,7 @@ OnFriendly
 OnFrontZoneDamage
 OnGameOver
 OnGameplayStart
-OnGameplayStartOnOrbitalGogglesZoomed
-OnGameplayStartUpdatePassFlags
+OnGameplayStarted
 OnGameStarted
 OnHacked
 OnHeadbutt
@@ -10065,7 +10062,6 @@ Overridden_20
 Overridden_21
 Overridden_22
 Overridden_23
-Overridden_23ShowContent
 Overridden_24
 Overridden_25
 Overridden_26
@@ -12511,6 +12507,7 @@ SpawnCameraTransform
 SpawnCharacter
 SpawnCharacters
 SpawnDelay
+SpawnDelayed
 SpawnDelayMax
 SpawnDelayMin
 Spawned
@@ -12918,6 +12915,7 @@ StartReadingContinously
 StartReadingContinouslyOnSpawn
 StartRedLight
 StartReload
+StartReloaded
 StartReset
 StartReturn
 StartRound
@@ -13016,6 +13014,7 @@ StemBoneCount
 StemBreakEffect
 StemEffectNodeThreshold
 StemLockedUpTo
+StemLockedUpToes
 StemMass
 StemPhysicsHeightScale
 StemPhysicsWidth
@@ -14967,7 +14966,6 @@ WeaponHeat
 WeaponHints
 WeaponId
 WeaponIdData
-WeaponIdm
 WeaponIsActive
 WeaponIsOverheated
 WeaponLights
