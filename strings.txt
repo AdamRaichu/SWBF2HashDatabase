@@ -58,7 +58,6 @@ _Transform
 12CameraTransform
 12r
 13
-13right
 14
 1484036420
 15
@@ -134,10 +133,6 @@ _Transform
 2Players
 2Pright
 2R
-2S
-2S0
-2Sr
-2Sw
 2T
 2TP
 2TSelectSection4
@@ -515,8 +510,6 @@ AIWaypointsShapeData2
 AIWaypointsShapeData3
 AIWaypointsShapeData4
 AIWaypointsShapeData5
-ajN
-ajNVector
 Alert
 AlertColor
 Alerted
@@ -2118,6 +2111,7 @@ Case EliminationBonus
 Case EliminationBonusAngularVelocityInDegrees
 Case MinimapType
 Case PlayerHealthModifier
+Case PlayerHealthModifierIfFalse
 Case PlayerLives
 Cases
 CaseSensitiveCompare
@@ -2529,7 +2523,6 @@ Cone - 3
 Cone 1
 Cone 10
 Cone 2
-Cone 2S
 Cone 3
 Cone 3r
 Cone 4
@@ -4521,8 +4514,6 @@ FuseTime
 fwd
 g
 G
-g/m
-g/mVector
 Gain
 GainedAmount
 GainedCurrency
@@ -5441,6 +5432,7 @@ HideCharacter
 HideCharacterCollisionOnly
 HideCharacterCollisionOnlyShowVictoryDefeatText
 HideCompleted
+HideCompletedIfTrue
 HideContent
 HideCrosshair
 HideDistanceText
@@ -9908,12 +9900,6 @@ Out26
 Out27
 Out28
 Out29
-Out2P
-Out2R
-Out2S
-Out2T
-Out2W
-Out2Z
 Out3
 Out30
 Out31
@@ -11351,7 +11337,6 @@ RewardInfo
 RewardInfoHCVwA9_Turbotank_SmallTurret_01
 RewardName
 RewardName10
-RewardName2S
 RewardNames
 Rewards
 Rey
@@ -11674,7 +11659,6 @@ Section1
 Section10
 Section1StopMovement
 Section2
-Section2S
 Section3
 Section3r
 Section4
