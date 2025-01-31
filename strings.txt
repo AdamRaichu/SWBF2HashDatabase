@@ -590,6 +590,7 @@ AlphaNormal
 AlphaOuter
 AlphaOutline
 AlphaReload
+AlternateSpawn
 AlternateViewEnabledOut
 AlternativeSpawnPoints
 AltLineOffset
@@ -1979,6 +1980,7 @@ CapturePointB
 CapturePointBOwner
 CapturePointC
 CapturePointCaptured
+CapturePointCapturedMinRetargetTime
 CapturePointCOwner
 CapturePointD
 CapturePointDOwner
@@ -5359,6 +5361,7 @@ HeroPresence
 HeroRank
 HeroShowdown
 HeroShowdownConditionalParam
+HeroShowdownConditionalParamInt
 HeroSpawn
 HeroSpawnIds
 HeroSpawnIsRight
@@ -8626,9 +8629,6 @@ MVPInfoVehiclesAllowed
 myTeam
 MyTeam
 n
-n	t
-N	t
-n	tVal
 n1
 n1GroundTransform
 n2
@@ -12331,6 +12331,7 @@ SpawnPlayer2
 SpawnPoint
 SpawnPointCheckRadius
 SpawnPointEnabled
+SpawnPointEnabledLeia
 SpawnPointGroup
 SpawnPointGroup1
 SpawnPointGroup1Inputphase2
@@ -13322,7 +13323,6 @@ Team2Win
 Team2WinMode8
 Team2Winning
 Team2WinningInt
-Team2WinningN	t
 teama
 TeamA
 teamb
