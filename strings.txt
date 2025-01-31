@@ -65,7 +65,6 @@ _Transform
 16
 17
 17P
-17SelectSection4
 18
 180
 19
@@ -135,8 +134,6 @@ _Transform
 2R
 2T
 2TP
-2TSelectSection4
-2uD3"D2E34DeD
 2W
 2WalkerRemain
 2WalkerRemainLight1
@@ -463,7 +460,6 @@ AimTarget
 AimTransform
 AimUp
 aimVector
-AimW2
 AIPlayerProvider
 AIPlayerProviderTeam
 AIPlayersToSpawnCount
@@ -479,7 +475,6 @@ AirControlModifierForward
 AirControlModifierForwardReset
 AirControlModifierStrafe
 AirControlModifierStrafeTransform2
-AirD
 airTargetVehicle
 AIScanVehicleType
 AISoldierTactic
@@ -609,8 +604,6 @@ AlwaysShow
 AlwaysSpawnSoldiersInVehicles
 AlwaysSpawnSoldiersInVehiclesLockAmount
 AlwaysUsedSavedLoadout
-AM-
-AM-Destroyed
 ammo
 Ammo
 AmmoInMags
@@ -1039,7 +1032,6 @@ Arcade_BS_Solo_D_2_3
 Arcade_BS_Solo_D_2_3Mode
 Arcade_BS_Solo_D_3_1
 Arcade_BS_Solo_D_3_2
-Arcade_BS_Solo_D_3_2ReactionNeighborhoodRange
 Arcade_BS_Solo_D_3_3
 Arcade_BS_Solo_D_4_1
 Arcade_BS_Solo_D_4_2
@@ -1554,6 +1546,7 @@ Binding
 BindingConcept
 Bindings
 Black
+blackone
 blackOne
 BlackOne
 Blast
@@ -1666,10 +1659,8 @@ Bool2
 Bool3
 Bool4
 Bool5
-Bool5assists
 Bool6
 Bool7
-Bool7HideBackground
 BoolHashList
 BoolIn
 BoolList
@@ -2059,12 +2050,6 @@ carriedStartEffect
 Case -1
 Case 0
 Case 050
-Case 0P
-Case 0S
-Case 0T
-Case 0W
-Case 0X
-Case 0Y
 Case 1
 Case 10
 Case 11
@@ -2084,25 +2069,10 @@ Case 22
 Case 23
 Case 24
 Case 3
-Case 3p
-Case 3r
-Case 3s
-Case 3t
-Case 3u
-Case 3v
-Case 3w
-Case 3z
 Case 4
-Case 4r
-Case 4t
-Case 4u
-Case 4v
-Case 4w
 Case 5
 Case 6
 Case 7
-Case 7T
-Case 7W
 Case 8
 Case 9
 Case AIHealthModifier
@@ -2546,9 +2516,6 @@ ConquestFinished
 ConquestInControl
 Console
 ConstantFalloff
-ConstantFalloffht
-ConstantFalloffiU
-ConstantFalloffn2
 ConstraintFollowTransform
 ConstraintPriority
 consumed
@@ -4141,7 +4108,6 @@ FakeRollInverseScale
 FakeRollMaxAngVel
 Fallback
 FallDamageThreshold
-FallDamageThresholdIs47
 FallingDone
 false
 False
@@ -4160,8 +4126,6 @@ FastSpawnManager
 FastSpawnManagerFloat3
 FastSpawnPlayer
 FEL_ATTE_Hitpoints
-FH2
-FId
 Fighter
 FileName
 Fill
@@ -4434,8 +4398,6 @@ ForwardThrust
 ForwardToSpectators
 ForwardToSpectatorsRetriggerText
 ForwardToSpectatorsShowContent
-FOS
-FOSAttack
 FOSD
 FOSDCapturePointA
 FOSDCapturePointB
@@ -4626,7 +4588,6 @@ GForce
 GForceOut
 GForceParameter
 GhostDecay
-GhostDecaygp_special_GUNNER_ap_MaxCount
 giver
 Giver
 GiverWorldTransform
@@ -5165,7 +5126,6 @@ HardlockAbilityActive
 hardlocked
 Hardlocked
 hardlockedAttackTactic
-HardlockedJumpHeightMultiplier
 HardlockedTeamOfImmortalSoldiers
 HardlockedVehicleReceivedDamage
 Hardness
@@ -5499,10 +5459,6 @@ HitStateTransform
 HitTargetTransform
 HitTransform
 HitVec
-HJt
-hM2
-hM4
-hM6
 Hmultiplier
 hO
 Hold
@@ -5543,7 +5499,6 @@ HudIndicatorIcon
 HudScreensDefinition
 Hue
 HueIsTerrainHit
-HueN5
 HueOT
 Hull
 HullHealth
@@ -5667,12 +5622,7 @@ In_VictoryDeclarationTeam1Won
 In_VictoryDeclarationTeam2Won
 in0
 In0
-In0P
 in0RollCurve
-In0T
-In0W
-In0X
-In0Y
 in1
 In1
 In1_Vec3
@@ -5688,14 +5638,6 @@ In16
 In17
 In18
 In19
-In1p
-In1r
-In1s
-In1t
-In1u
-In1v
-In1w
-In1z
 in2
 In2
 In2_Float
@@ -5704,9 +5646,6 @@ In20
 In21
 In22
 In23
-In23psoAK
-In23qRoAK
-In23qSNAK
 In24
 In25
 In26
@@ -5726,23 +5665,10 @@ In36
 In37
 In38
 In39
-In3p
-In3P
-In3r
-In3s
-In3t
-In3u
-In3v
-In3w
-In3z
 In4
 In5
 In6
 In65
-In6P
-In6S
-In6T
-In6W
 In7
 In8
 In8gp_hero_anakin_EnabledAtStage
@@ -5890,7 +5816,6 @@ InnerBlastRadiusMultiplier
 InnerBlastRadiustotaltime
 InnerDistance
 InnerRadius
-InO
 InObjectiveEndIndex
 InObjectiveIndex
 InObjectiveStartIndex
@@ -5922,20 +5847,15 @@ Input(OUT) CameraIndex
 Input(OUT) In3P
 Input(OUT) ShoulderSide
 Input0
-Input0AimAtLastHitPosition
 Input1
 Input1 Damage
 Input1-1
 Input1-2
 Input1-3
 Input10
-Input10O
 Input11
 Input12
 Input13
-Input13l
-Input13m
-Input13o
 Input14
 Input15
 Input16
@@ -5957,24 +5877,9 @@ Input22
 Input3
 Input3 Damage
 Input4
-Input4u1
 Input5
-Input5T1
 Input6
-Input6P
-Input6S
-Input6T
-Input6To
-Input6W
-Input6WL
 Input7
-Input7p
-Input7r
-Input7s
-Input7t
-Input7u
-Input7v
-Input7w
 Input8
 Input9
 InputA_NoProgressTimeout
@@ -6319,7 +6224,6 @@ InputLeaveButtonVisibility
 InputLeftBarSize
 InputLevelDamage
 InputLightingQuality
-InputLightingQualityHealth3
 InputLightning
 InputLightSaber
 InputLimits
@@ -6465,7 +6369,6 @@ InputPlayerCancelledMatchmaking
 InputPlayerCancelledMatchmakingDefendingTeam
 InputPlayerCancelledMatchmakingStiffnessSpread
 InputPlayerIsControllableDroid
-InputPlayerIsControllableDroidShowMessages
 InputPlayerIsIn3p
 InputPlayerJoinedGroup
 InputPlayerLeftGroup
@@ -6835,8 +6738,6 @@ InvertSettings
 InvertTranslation
 InvertUp
 invertValue
-InvertVS
-InvertW2
 InvertYSchemeIndex
 InvestigateMode
 InvestigateState
@@ -6872,7 +6773,6 @@ Is3p
 Is3P
 Is3pCamera
 Is3pLocalizedStringId1
-Is47
 IsAbility
 IsAbilityBoost
 IsActivated
@@ -7148,7 +7048,6 @@ IsMode1
 IsMode3
 isMode8
 IsMode8
-IsN5
 IsNegated
 IsNegative
 IsNegativeColor
@@ -7212,7 +7111,6 @@ IsPlayinginterp
 IsPrestigeRank
 IsProxy
 IsPushable
-IsR1
 IsRadarVisible
 IsReady
 IsReadyHeavy
@@ -7404,13 +7302,6 @@ jetpackstate
 JetpackState
 JetPackState
 JetpackStateTerrainVirtualTextureAccessEnable
-jF
-jl
-jm
-jN
-jNPrioritiseTargets
-jo
-jO
 Joinable
 JoinableZone1
 Joined
@@ -7419,9 +7310,6 @@ JointOutputFieldHashes
 JointOutputMode
 JointOutputPropertyIds
 JointWorldTransformUpdateOrder
-Jq
-Js
-Jt
 JuiceSessionId
 Jump
 JumpCooldown
@@ -7442,7 +7330,6 @@ JumpTime
 JumpTrooper
 JumpTrooperKills
 k
-k.
 KeepAlive
 KeepNearPosition
 KeepRemoved
@@ -7487,6 +7374,7 @@ Kills
 KillsMissionIndex7
 KillSoldierCollisionSpeedThreshold
 KillSoldierCollisionSpeedThresholdBlockTime
+killstreak
 KillStreak
 KillStreakAward
 Killswitch
@@ -7517,9 +7405,6 @@ KitIDPlayer
 KitIDPlayerWindDistribution
 KitIDVehicle
 KitSize
-kM
-kn
-ko
 koPrioritiseTargets
 KPH
 Kylo
@@ -7540,10 +7425,8 @@ Lando
 LandoNightVision
 Language
 LanguageFormat_BrazilianPortuguese
-LanguageFormat_BrazilianPortugueseReduceMaxPitch
 LanguageFormat_English
 LanguageFormat_French
-LanguageFormat_FrenchAP_BlasterAimNoise_Mode9
 LanguageFormat_German
 LanguageFormat_Italian
 LanguageFormat_Japanese
@@ -7711,7 +7594,6 @@ levelTarget
 LevelToLoad
 LevelToPlay
 levelUp
-levelVS
 LevelWaves_PauseTime_Short
 lifetime
 Lifetime
@@ -7804,6 +7686,7 @@ ListensToMouse
 ListenToDeviceType
 ListenToDeviceTypeSunShadowHeightScale
 ListenToType
+listheight
 listHeight
 ListIndex
 ListIndexWithoutCap
@@ -8194,15 +8077,7 @@ MaxHealth08
 MaxHealth1
 MaxHealth1InputHighlightParty
 MaxHealth2
-MaxHealth2p
-MaxHealth2s
-MaxHealth2t
-MaxHealth2u
-MaxHealth2w
-MaxHealth2z
 MaxHealth3
-MaxHealth3P
-MaxHealth3T
 MaxHealth4
 MaxHealthAngle
 MaxHealthModifier
@@ -8723,14 +8598,12 @@ MoveToPosition
 MoveToTarget
 MoveToTransform
 MoveUp
-MoveW2
 Movie
 MovieAmp
 MovieIsPlaying
 MovieStarted
 MovingPosition
 MPMode
-MR
 MsgId
 multi
 Multiline
@@ -8820,7 +8693,6 @@ New
 NewBool
 newHealth
 NewObjective
-NewObjectiveIn6
 NewObjectiveIsPlaying
 NewPosition
 NewPositionTransform
@@ -8841,14 +8713,6 @@ next
 NextOut
 NextPose
 Night
-NKr
-NKrP
-NKrs
-NKrS
-NKrT
-NKrW
-NKrX
-NKrY
 nMessages
 NoAbilities
 NoClustersDestroyed
@@ -8918,6 +8782,7 @@ Not A~=B
 NotAnimating
 NoTarget
 Notargets
+notavailable
 NotAvailable
 NotDefault
 NotEqual
@@ -8953,7 +8818,6 @@ NumTargets
 nw
 o
 O
-OBAP
 OBBData
 OBBs
 ObectiveATAT_Completed
@@ -9078,7 +8942,6 @@ OccupiedVehicles
 OccupiedVehiclesWeight
 OccupyingAiId
 OceanVisualCpuSimulationEnable
-oEV
 Off
 Off_On
 OffCentered
@@ -9187,9 +9050,7 @@ OnCapturedC
 OnCapturedCDefaultLocomotionSettings
 OnCapturedD
 OnCapturedE
-OnCapturedEEvasiveManeuversGroundCheckHeightDistanceM
 OnCapturedObjectiveIcon
-OnCaptureed
 OnCapturePoint
 OnCaptureSaved
 OnChanged
@@ -9684,6 +9545,7 @@ OnTrackedPlayerDestroyAimingAngularSpeedConstraints
 OnTrackedPlayerKill
 OnTrackedPlayerKilled
 OnTrackedPlayerKilledByEnemy
+OnTrackedPlayerSpawned
 OnTrackPlayer
 OnTransitionIn
 OnTransitionOut
@@ -10214,10 +10076,6 @@ p28
 p29
 p30
 p31
-p6P
-p6S
-p7S
-p7T
 PACPAvailable
 PACPFailed
 pad
@@ -10475,7 +10333,6 @@ PlateType
 Platform
 Platform_Android
 Platform_Default
-Platform_DefaultJump
 Platform_Gen4a
 Platform_Gen4b
 Platform_iOS
@@ -10596,7 +10453,6 @@ Players().sizeOnUnderFire
 PlayerScale
 PlayerScore
 PlayersInside
-PlayersInsideScimitar
 PlayersLeft
 PlayerSpawn
 PlayerSpawned
@@ -10720,7 +10576,6 @@ PowerModifier
 PowerModifierWhenFired
 PowerStartTime
 PowerUp
-PowerW2
 Pre_Corvus
 PreBuffer
 PreDestructionDamageThreshold
@@ -10771,8 +10626,6 @@ PrimaryWeaponAbilityId
 PrimaryWeaponName
 Prime
 PrimeBehavior
-Primp
-Prims
 Print
 PrintAsStream
 PrintCurrentTime
@@ -10936,7 +10789,6 @@ RadarZoneInner
 RadarZoneOuter
 RadarZoneOuterLinkedAbilityIDs
 RadarZoneOuterToggleLeft
-radF
 RadialBlendDistanceCoefficients
 RadialBlurEnable
 RadialBlurOffset
@@ -11493,7 +11345,6 @@ SaveAndLeave
 SaveInSlot
 SaveUpgradeState
 Savors
-Sc2
 scale
 Scale
 Scaled
@@ -11647,12 +11498,6 @@ Segments
 seismic
 Select
 Select0
-Select0P
-Select0S
-Select0T
-Select0W
-Select0X
-Select0Y
 Select1
 Select10
 Select11
@@ -11675,7 +11520,6 @@ Select20
 Select21
 Select22
 Select23
-Select23ActivateOnCreation
 Select24
 Select25
 Select26
@@ -11691,18 +11535,9 @@ Select31IsTacticalSpawn
 Select32
 Select32Arcade_BS_Solo_D_4_2
 Select3p
-Select3r
-Select3s
-Select3t
-Select3u
-Select3v
-Select3w
-Select3z
 Select4
 Select5
 Select6
-Select6T
-Select6W
 Select7
 Select8
 Select8LocatorTransform
@@ -11975,7 +11810,6 @@ SetDraw
 SetEnabled
 SetEndOfRound
 SetFalse
-SetFalseAP_RespawnDelay_Mode9
 SetFast
 SetImmortal
 SetImmortalOnCompleted
@@ -12537,14 +12371,9 @@ SpawnTransform12
 SpawnTransform2
 SpawnTransform3
 SpawnTransform4
-SpawnTransform4T
-SpawnTransform4W
 SpawnTransform5
 SpawnTransform6
 SpawnTransform7
-SpawnTransform7t
-SpawnTransform7v
-SpawnTransform7w
 SpawnTransform8
 SpawnTransform9
 SpawnTransform9CraitTurret_Health
@@ -12618,6 +12447,7 @@ Splitscreen
 SplitScreen
 SplitscreenOffset
 SPMissionInformationAsset
+spmultiplier
 SPMultiplier
 Spot
 SpotDuration
@@ -12736,7 +12566,6 @@ StarCardScale
 StarcardsInput
 StarcardsOutput
 StarCardsStart
-StarCardsStartNoVehicleCollisionTime
 StarCardsVisible
 StarCardTargets
 StarCardValue
@@ -12934,7 +12763,6 @@ StateGroup
 StateGuid
 StateInputHash
 stateInt
-stateN	t
 StateName
 StateOutputHash
 StatEvent
@@ -13041,6 +12869,7 @@ StopSound
 StopSpawn
 StopSteamFX
 StopSteamFXBuddyVehicleOverride
+stoptime
 StopTime
 StopTimeline
 StopTimer
@@ -13310,7 +13139,6 @@ TargetAbilityUpgradeIdData
 TargetAcquired
 TargetAimPointWS
 TargetAimPos
-TargetAimPosLobbyTimeToStart_SkirmishMode8
 TargetAimVel
 TargetAmount
 TargetAngularVelocityOverride
@@ -13608,7 +13436,6 @@ Texture
 TextureMappings
 TextureMappingsBase_01
 TextureParam
-TextureParamInput(IN) ActivateCameraIndex
 Textures
 TextureSelect
 TextureSelect2
@@ -13624,17 +13451,6 @@ ThirdPersonCameraLocalTransformTickets Disabled
 ThisMoveFrame
 ThisStarfighterTransform
 ThreadCount
-Threaden
-Threaden0
-Threaden1
-Threaden2
-Threaden3
-Threaden4
-Threaden5
-Threaden6
-Threaden7
-Threaden8
-Threaden9
 ThreatDistanceMultiplier
 ThreatLevel
 ThreatRadius
@@ -13771,6 +13587,7 @@ TimeSinceTargetVisible
 TimeSinceVisible
 TimeString
 TimeStringVehicleHealth
+timetaken
 TimeTaken
 TimeTargetVisible
 TimeThreshold
@@ -13878,7 +13695,6 @@ TotalTime
 TotalUintSettingName
 totalWidth
 toTarget
-tQ
 tr
 Tracked
 TrackedObjectiveIndex
@@ -14267,7 +14083,6 @@ UnspawnBuddy
 UnspawnPlayer
 Unspot
 UnStuckVehicleActionsTriggerTimeSeconds
-uNTarget
 Unzoomed
 UO
 up
@@ -14339,6 +14154,7 @@ UseCharacterEntity
 UseCheckpointOwnerForSublevel
 UseClippingPlane
 UseDamageGiverEntities
+UseDebugValue
 UseDefaultStopEvent
 UseDetailedCollision
 UseEntityCorrectionInterface
@@ -14386,6 +14202,7 @@ UseOverridePosition
 UseOverridePositionBase_01
 UseOverrideScale
 UseOverrideScreenPosition
+UseOverrideTarget
 UseOwnLastPositionAsOrigin
 UsePathFinding
 UsePhysicsDrivenLocomotion
@@ -14402,6 +14219,7 @@ UseRealDeltaTime
 UseRealTimeClock
 UserError
 Username
+UseScaledValue
 UseSchematicPlayerId
 UseSchematicPlayerIdRadialBlendDistanceCoefficients
 UseSelfForSelfDestruct
@@ -14725,13 +14543,6 @@ Vp8Kit
 Vp9
 VpCount
 VPHealth
-VpObjectiveIndex
-VpPlayers
-VpScored
-vpt
-vpv
-vpw
-vqU
 Vs
 VS
 Vs0
@@ -14746,7 +14557,6 @@ Vs8
 Vs9
 VsCount
 VsE
-Vsgp_vehicle_laat_gunship_Price
 VSHealth
 VsP
 VsPlayers
@@ -14758,23 +14568,6 @@ VsT
 VsW
 VsX
 VsY
-vt1
-vt2
-vt3
-vu0
-vu1
-vv
-vv0
-vv1
-vv2
-vv3
-vv4
-vv5
-vv6
-vv7
-vv8
-vv9
-vw
 w
 W
 W1
@@ -14968,7 +14761,6 @@ WidgetAlpha
 widgetSize
 WidgetSize
 WidgetSize2
-WidgetSizeNumPlayersInside
 WidgetSizeX
 WidgetType
 widgetWidth
@@ -15006,14 +14798,8 @@ Wireframe
 withinRange
 WithinRange
 WithinVolume
-WL
-WLDistance
-WLIdle
 WlkDestroy0Left
 WlkDestroy1Left
-WLp
-WLPos
-WLScared
 wobble
 won
 world
@@ -15046,7 +14832,6 @@ WorldWeaponTransformOut
 WrapOnGPU
 WrappedType
 WrappedTypeHash
-WrappedTypeHashOnApplyFullscreenApplied
 WriteAndResetEachTick
 WriteContinuously
 WriteOnce
