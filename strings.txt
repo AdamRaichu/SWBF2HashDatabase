@@ -1147,7 +1147,6 @@ AssaultSpawner
 AssaultValue
 Assembly
 AssetId
-AssetIdAP_WavesSpecials_PauseTime_Coop_Start
 assists
 Asteroid
 Async
@@ -4562,7 +4561,6 @@ GamePlatform_Gen4aDisableCollisionAvoidance
 GamePlatform_Gen4b
 Gameplay
 Gameplay/Kits/Affector_RemoveAffector_HealthMaxed
-Gameplay/Vehicles/Ground/X34/Vehicle_Ground_X34-AP_Camera
 GameplayBones_WeaponMuzzleBone
 GameplayBones_WeaponMuzzleBone2
 GameplayBones_WeaponMuzzleBone4
@@ -7893,7 +7891,6 @@ LookAheadOffsetZ
 LookAheadOffsetZ_Zoomed
 LookAheadTime
 LookAheadTime2
-LookAheadTime2PlayType
 LookAtAimPos
 LookAtEntity
 LookAtPosition
