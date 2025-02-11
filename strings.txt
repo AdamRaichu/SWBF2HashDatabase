@@ -416,6 +416,7 @@ aihealth
 AiHealth
 AiHealthModifier
 AIHealthModifier
+AiHealthModifierIndex
 AIHealthModifierIndex
 AiKills
 aim
@@ -1733,7 +1734,6 @@ BreakableJointThreshold
 Breakout
 BreakThrustXZ
 BreakThrustY
-BreakThrustYOnTrigger
 BreathControl
 Bridge
 BridgeHealth
@@ -2869,7 +2869,6 @@ d4
 d5
 d6
 d7
-D7
 d8
 damage
 Damage
@@ -4466,7 +4465,6 @@ FrontEndIsActive
 FrontEngineLoop
 FrontHealthZone
 fSound
-Fu
 fuel
 Fuel
 FuelAmount
@@ -4796,7 +4794,6 @@ gp_special_bx_EnabledAtStage
 gp_special_bx_MaxCount
 gp_special_bx_Price
 gp_special_clonecommando_ap_EnabledAtStage
-gp_special_clonecommando_ap_EnabledAtStageOnEquipped
 gp_special_clonecommando_ap_MaxCount
 gp_special_clonecommando_EnabledAtStage
 gp_special_clonecommando_MaxCount
@@ -4851,7 +4848,6 @@ gp_special_isbagent-ap_EnabledAtStage
 gp_special_isbagent-ap_EnabledAtStageMaxReinforcements
 gp_special_isbagent-ap_MaxCount
 gp_special_jumpcop_ap_EnabledAtStage
-gp_special_jumpcop_ap_EnabledAtStageLanguageFormat_BrazilianPortuguese
 gp_special_jumpcop_ap_MaxCount
 gp_special_JUMPCOP_ap_MaxCount
 gp_special_jumpcop_ap_MaxCountFollowDistanceChangeSpeedCurve
@@ -5644,7 +5640,6 @@ In12
 In13
 In14
 In15
-In15LeftMiddleFoot
 In16
 In17
 In18
@@ -7297,7 +7292,6 @@ ItemVisible
 iType
 iU
 j
-j1
 j52
 JammerEnabled
 JesusMode
@@ -7545,7 +7539,6 @@ LeftHipIsMode8
 LeftLeg
 LeftLowLeg
 LeftMiddleFoot
-LeftMiddleFootDefaultWeaponFired
 LeftMiddleFootPlanted
 LeftMiddleLowLeg
 LeftMuzzle
@@ -10181,7 +10174,6 @@ percent
 Percentage
 PercentageComplete
 PerimeterSize
-PerimeterSizeBarWidth
 PerimeterSizePlayerAbilityCategory_Middle
 PersistentSelection
 PersonalBest1
@@ -12501,7 +12493,6 @@ SpriteDofMaxBlur
 Squad
 SQUAD_SPAWN_MIN_DISTANCE_FROM_ENEMY_WITH_LOS_SMALL_MODES
 SQUAD_SPAWN_MIN_DISTANCE_FROM_ENEMY_WITHOUT_LOS_SMALL_MODES
-SQUAD_SPAWN_MIN_DISTANCE_FROM_ENEMY_WITHOUT_LOS_SMALL_MODESHostile
 SQUAD_SPAWN_MIN_DISTANCE_FROM_GRENADE
 SQUAD_SPAWN_MIN_TIME_OUT_OF_COMBAT_SMALL_MODES
 SQUAD_SPAWN_MIN_TIME_SINCE_APPLIED_AFFECTOR_SMALL_MODES
@@ -14024,7 +14015,6 @@ UIWeeklyQuestRotateToScenarioDistance
 UK
 UL
 Ultra
-uN
 UN
 Unavailable
 UnavailableIsLocked
@@ -14118,6 +14108,7 @@ Updated via property
 UpdateEnabled
 UpdateFrequency
 UpdateInterval
+UpdateIntervalNameIndex
 UpdateKillswitch
 UpdateMissionIndex
 UpdateOnce
@@ -14953,11 +14944,9 @@ z
 Z
 Z%&Y7
 z1
-z1d
 ZAlignWithGroundNormal
 zero
 Zero
-zn1
 zOffset
 Zone0
 Zone1
