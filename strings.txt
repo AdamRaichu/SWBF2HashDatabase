@@ -12221,7 +12221,6 @@ SolopAIVehiclesDisabled
 SolopAIVehiclesEnabled
 SoloStarfighter1Onslaught
 SoloStarfighter2Onslaught
-SoloStarfighter2OnslaughtNeutral
 SoloStarfighter3Onslaught
 SoloStarfighter4Onslaught
 SoloStarfighter5Onslaught
