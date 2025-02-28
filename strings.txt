@@ -7292,7 +7292,6 @@ ItemVisible
 iType
 iU
 j
-j52
 JammerEnabled
 JesusMode
 Jetpack
@@ -7776,6 +7775,7 @@ LocalPlayerActivate
 LocalPlayerActive
 LocalPlayerDeactivate
 LocalPlayerEnter
+LocalPlayerEnterClient
 LocalPlayerEntry
 LocalPlayerExit
 LocalPlayerId
@@ -7787,20 +7787,24 @@ LocalPlayerInVehicleParameter
 LocalPlayerIsAttacking
 LocalPlayerIsTeam1
 LocalPlayerIsTeam2
+LocalPlayerOnEntry
 LocalPlayerOnly
 LocalPlayerOnlyStartEvent
 LocalPlayerOverride
 LocalPlayerOverrideRare
 LocalPlayerSpawned
+LocalPlayersTeam
 LocalPlayerTarget
 LocalPlayerTeam
 LocalPlayerTeamCapturing
 LocalPlayerTeamId
+LocalPlayerVentingProgress
 LocalPlayerViewId
 LocalRightGun
 LocalRightSecGun
 localTeam
 LocalTransform
+LocalWeaponTransformOut
 location
 Location
 LocationNameSid
@@ -11137,6 +11141,7 @@ ret
 ReticuleTransform
 Retreat
 RetreatSunShadowHeightScale
+RetributionIsUrgent
 Retrigger
 retriggerable
 Retriggerable
@@ -12264,7 +12269,6 @@ SourceTransform
 South
 SouthEast
 SouthWest
-SouthWestSwordAttackDurationTimeMaxS
 SP
 space
 Space
@@ -13376,7 +13380,6 @@ TeamSizeAP_1Player_Subtract_ModeDAllowLoop
 TeamSizeAP_2Player_Subtract_Mode9
 TeamSizeAP_2Player_Subtract_ModeD
 TeamSizeAP_3Player_Subtract_Mode9
-TeamSizeAP_3Player_Subtract_Mode9gp_vehicle_tiebomber_MaxCount
 TeamSizeAP_3Player_Subtract_ModeD
 TeamSizeAP_BotTeam_Large_Mode9
 TeamSizeAP_BotTeam_Large_ModeD
