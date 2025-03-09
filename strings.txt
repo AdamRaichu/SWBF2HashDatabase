@@ -2418,6 +2418,7 @@ Color3
 Color4
 Color5
 ColorA
+ColorAll
 ColorAlpha
 ColorB
 ColorBlindnessType
@@ -2426,6 +2427,7 @@ ColorBUpsideDownDamageDelay
 ColorCondition
 ColorConditionInitialSpawnDelayMin
 ColorFlash
+ColorGroup
 ColorIntensity
 ColorLocked
 ColorNormal
@@ -3542,7 +3544,6 @@ EmissiveTrimColor
 Emitter
 EmitterDiffuseScale
 EmitterGraph
-EmitterGraphLeftBackFootHyd2
 EmitterGraphOverrides
 EmitterGraphParams
 EmitterGraphVertexShaderTextures
