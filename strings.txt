@@ -314,6 +314,7 @@ ActionTypeAllowMissileLock
 ActisInterceptor
 Activate
 ActivateBoost
+ActivateCell
 Activated
 ActivatedOnCreate
 ActivateObjectives
@@ -2960,6 +2961,7 @@ DaysVelocityDamageThreshold
 Deactivate
 DeActivate
 DeactivateBoost
+DeactivateCell
 Deactivated
 DeActivated
 DeactivateSound
@@ -4988,7 +4990,6 @@ gp_vehicle_tiebomber_MaxCount
 gp_vehicle_tiebomber_Price
 gp_vehicle_tiefighter_EnabledAtStage
 gp_vehicle_tiefighter_firstorder_EnabledAtStage
-gp_vehicle_tiefighter_firstorder_EnabledAtStageJumpCooldown
 gp_vehicle_tiefighter_firstorder_MaxCount
 gp_vehicle_tiefighter_firstorder_Price
 gp_vehicle_tiefighter_MaxCount
@@ -6212,7 +6213,6 @@ InputIsVenting
 InputIsWeakened
 InputIsWithinNameDistance
 InputItemDefAlias
-InputItemDefAliasLocalHead
 InputitemDefinitionAlias
 InputItemType
 InputJoinAction
@@ -11555,6 +11555,7 @@ SelectCaptureProgress1
 SelectCaptureProgress2
 SelectCaptureProgress3
 SelectCaptureProgress3IsEnemy1
+SelectCell
 SelectCommander
 SelectControllableDroid_1p
 SelectControllableDroid_3p
@@ -11739,7 +11740,6 @@ SelfRightAgainstCameraForwardCurve
 SelfRightAgainstInvAngVel
 SelfRightAgainstWorldUpCurve
 SelfRightAgainstZoom
-SelfRightAgainstZoomVisualConvergenceDelay
 SelfRightFactorPitch
 SelfRightFactorPitchVictoryPoses
 SelfRightFactorRoll
@@ -12080,6 +12080,7 @@ ShowTimerLeft
 ShowTransformCoordinates
 ShowTransformInWorld
 ShowTutorial
+ShowTutorialCell
 ShowVehicle
 ShowVehicleHealth
 ShowVictoryDefeatText
@@ -13091,7 +13092,6 @@ t1
 T1
 T1Count
 T1E
-T1gp_vehicle_laat_gunship_Price
 T1Players
 T1s
 T1S
@@ -13597,7 +13597,6 @@ TimeSinceReadyToSpawn
 TimeSinceTargetVisible
 TimeSinceVisible
 TimeString
-TimeStringVehicleHealth
 timetaken
 TimeTaken
 TimeTargetVisible
@@ -14336,6 +14335,7 @@ VehicleAlerted
 VehicleBailTime
 VehicleCausedDamage
 VehicleClassIcon
+VehicleClassRank
 VehicleCurrentShield
 VehicleDestroyed
 VehicleDetonationActivationDelay
