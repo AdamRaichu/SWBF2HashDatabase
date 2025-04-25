@@ -1527,7 +1527,6 @@ BermudaRifleHeatMultiplier
 BerserkTactic
 BestTargetAngle
 bet
-betgp_vehicle_awingrz3_EnabledAtStage
 bevel
 BF02
 BF03
@@ -14683,7 +14682,6 @@ WaveMembers
 WaveNumber
 Waves
 Waves_PauseTime_Long
-Waves_PauseTime_LongSkyVisibilityParam
 Waves_PauseTime_Medium
 Waves_PauseTime_Short
 WavesCaptureDistance
