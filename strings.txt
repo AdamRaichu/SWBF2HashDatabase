@@ -10902,7 +10902,9 @@ rc2
 ReachWaypoint1Left
 ReachWaypoint2Left
 Reacting
+ReactionFinished
 ReactionNeighborhoodRange
+ReactionStarted
 ReactionTriggered
 Reactivated
 ReactorHealth
