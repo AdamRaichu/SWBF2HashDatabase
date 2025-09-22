@@ -3914,6 +3914,7 @@ ErrorText
 Escape
 EscapeLeft
 EscapeRight
+EscapeRoute
 escort
 EscortProgress
 EstimatedTimeRemaining
@@ -11326,6 +11327,7 @@ RoundStarts
 RoundTime
 RouteA
 RouteB
+RouteComplete
 RouteWaypoints
 RouteWaypointsEmptyStore
 rowcount
