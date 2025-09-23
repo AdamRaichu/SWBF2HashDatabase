@@ -1694,6 +1694,7 @@ Bossk
 BossVulnerabilityWeapons
 both
 BotReductionPerVehicle_Coop
+BotTeam
 BotTeam_AP_Attack
 BotTeam_AP_Defend
 bottomDisk01Part2_joint1
@@ -11852,6 +11853,7 @@ SetPlayer
 Setprev
 SetRetreat
 SetScenarioIndex
+SetScenarioIndexAP
 SetSelectedFinn
 SetSelectedPhasma
 SetSlow
