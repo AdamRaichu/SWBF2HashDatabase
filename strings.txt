@@ -857,7 +857,6 @@ AP_VehicleSpawnProbability_Mode8
 AP_VehicleUseCharacterThrottle
 AP_Waves_ForceSpawnTime_Attack_Phase1
 AP_Waves_ForceSpawnTime_Attack_Phase2
-AP_Waves_ForceSpawnTime_Attack_Phase2MaxAimAdjustAngle
 AP_Waves_ForceSpawnTime_Attack_Phase2SetTeamOnSpawn
 AP_Waves_ForceSpawnTime_Attack_Phase3
 AP_Waves_ForceSpawnTime_Attack_Phase4
@@ -5793,6 +5792,7 @@ InfluenceFadeNormal
 InfluenceType
 Ingame
 InGameMusicMuted
+InGroup
 InHash
 InheritEffect
 InHeroName
@@ -9565,7 +9565,6 @@ OnToggle
 OnTopZoneDamage
 OnTopZoneDamageDefend_Phase1_Enemy_HeroVehicleCount_END
 OnTrackedPlayerDestroy
-OnTrackedPlayerDestroyAimingAngularSpeedConstraints
 OnTrackedPlayerKill
 OnTrackedPlayerKilled
 OnTrackedPlayerKilledByEnemy
@@ -9602,7 +9601,6 @@ OnUpgrade
 OnValueChanged
 OnVault
 OnVehicleDeployFailed
-OnVehicleDeployFailedPlayerHealthModifier
 OnVehicleDestroyed
 OnVenting
 OnWeaponChanged
@@ -12159,6 +12157,7 @@ Skin
 SkinAurebeshName
 SkinDescription
 SkinEmote_Enter
+SkinEmote_Exit
 SkinId
 SkinName
 SkinnedModel
@@ -14049,6 +14048,7 @@ Uncommon
 UncommonBankingSpeed
 Undefined
 Undeploy
+UnDeploy
 under
 Underage
 UnderFire
@@ -14787,7 +14787,6 @@ WhooshbyClosingSound
 WhooshbySeparatingSound
 WhooshbyTriggerClosingDistanceThreshold
 WhooshbyTriggerSeparatingDistanceThreshold
-WhooshbyTriggerSeparatingDistanceThreshold!APVehicleSpawn_Enabled_Defend_END
 widget
 WidgetAlpha
 widgetSize
@@ -14869,7 +14868,6 @@ WriteContinuously
 WriteOnce
 WriteOnceOnSpawn
 WriteOnPropertyChanged
-WriteOnPropertyChangedArcade_BS_Solo_D_4_2
 WritePropertyOnOpenGate
 WSClass
 WSClass_Assault
@@ -14927,7 +14925,6 @@ xPadding
 XPpp@
 XWidth
 Xwing1Chaser
-Xwing1ChaserString14
 Xwing2Chaser
 y
 Y
