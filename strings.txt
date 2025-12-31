@@ -1709,6 +1709,7 @@ cEV
 Cf]zVU
 ChallengeAward
 ChallengeTitle
+ChangeColor
 ChangeOfDestinationDistanceToleranceSelect19
 channel
 Channel
@@ -1952,6 +1953,7 @@ ColorAll
 ColorB
 ColorBlindnessType
 ColorBUpsideDownDamageDelay
+ColorChange
 ColorCondition
 ColorConditionInitialSpawnDelayMin
 ColorFlash
@@ -6327,6 +6329,7 @@ LauncherAimNoise
 lB
 lBDelayFrames
 lD
+LeaveCombatArea
 LeaveGroup
 LeaveMenu
 Leaves
@@ -11232,6 +11235,7 @@ Team2_Win
 Team2AISize
 Team2Count
 Team2CurrentScore
+Team2CurrentScoreChange
 Team2Icon
 Team2ID
 Team2Inside
