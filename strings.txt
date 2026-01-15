@@ -32,6 +32,11 @@ _Transform
 1on1
 1p
 1P
+1pActive
+1pCameraActive
+1PCameraActive
+1pCameraOverrideTransform
+1pCameraTransform
 1Players
 1s
 1WalkerRemain
