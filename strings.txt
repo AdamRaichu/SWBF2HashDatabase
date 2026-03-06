@@ -12423,6 +12423,9 @@ WinningTeam
 WinningTeam1
 WinningTeam2
 wins
+WipeActive
+WipeCompleted
+WipeEnabled
 WipeTarget
 WipeTime
 WipeType
