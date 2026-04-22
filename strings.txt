@@ -6587,10 +6587,13 @@ localOffset
 LocalOffset
 LocalPlayer
 LocalPlayer0
+LocalPlayer0Score
 LocalPlayer1
 LocalPlayer1IsTeam1
 LocalPlayer1IsTeam2
 LocalPlayer1Score
+LocalPlayer2IsTeam1
+LocalPlayer2IsTeam2
 LocalPlayerActivate
 LocalPlayerActive
 LocalPlayerDeactivate
