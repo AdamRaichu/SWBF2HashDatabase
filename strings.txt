@@ -10006,6 +10006,8 @@ SetFalse
 SetFast
 SetImmortal
 SetIndestructible
+SetInGame
+SetInLevelResults
 SetLandingGearsDown
 SetLanguage
 SetMortal
@@ -10013,6 +10015,7 @@ SetMVPDeclaration
 SetNewTime
 SetPickup
 SetPlayer
+SetPreGame
 Setprev
 SetRetreat
 SetScenarioIndex
@@ -10037,6 +10040,7 @@ SetValueFloat
 SetVariation0
 SetVariation1
 SetVariation2
+SetVictoryDeclaration
 SetVisible
 SetWantedConnectJointTransform
 SetWeapon
