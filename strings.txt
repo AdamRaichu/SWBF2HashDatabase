@@ -11708,6 +11708,9 @@ TroopersOnly
 true
 True
 TrueValue
+TryEquip
+TryLockKit
+TryTriggerAbility
 tubeBroken18_joint1
 tubeBroken31_joint1
 Turn_Off
