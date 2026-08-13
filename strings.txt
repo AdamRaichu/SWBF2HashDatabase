@@ -83,6 +83,7 @@ AabbMin
 AAT Heatlh_PvE
 AAT Heatlh_PvP
 Abilities
+Abilities().size
 AbilitiesActive
 AbilitiesOnboardingRect
 AbilitiesRect
@@ -123,6 +124,7 @@ AbilitySpeedModifierSquad
 AbilityUpgradeIdCollection
 AbilityUpgradeIdData
 AbilityUpgrades
+AbilityUpgrades().size
 Abort
 AbortSpawnInvisibilityInputsPrimaryObjective
 AbortWhenAlerted
@@ -1727,6 +1729,7 @@ CharacterClass
 CharacterClass_HeroVehicle
 CharacterClass_Vehicle
 CharacterClasses
+CharacterClasses().size
 CharacterClassId
 CharacterClassIdCollection
 CharacterClassIdData
@@ -1751,10 +1754,12 @@ CharacterKitAppearanceIdCollection
 CharacterKitAppearanceIdData
 CharacterKitAppearanceIdgp_special_clonecommando_ap_MaxCount
 CharacterKitAppearances
+CharacterKitAppearances().size
 CharacterKitAppearanceSkinId
 CharacterKitAppearanceSkinIdCollection
 CharacterKitAppearanceSkinIdData
 CharacterKitAppearanceSkins
+CharacterKitAppearanceSkins().size
 CharacterKitId
 CharacterKitIdCollection
 CharacterKitIdData
@@ -1778,6 +1783,7 @@ CharacterNarrativeState_NonCombat_Unarmed
 CharacterOverride
 CharacterRankLevel
 Characters
+Characters().size
 Characters/Zombie/Playable/Pirate/Tattoo/Pirate_Tattoo_HibachiCookout_Override
 CharacterSkin
 CharacterSpawned
@@ -2814,6 +2820,7 @@ DropDown
 DropFlag
 Dropped
 DSbus
+DSbus().size
 DSubIdentifier
 DSubName
 Ducking
@@ -2901,6 +2908,7 @@ EmoteIndex
 EmoteJustTriggered
 EmoteProbabilityAfterPlayersDeath
 Emotes
+Emotes().size
 EmoteTrigger
 EmoteTriggered
 Emperor
@@ -3165,6 +3173,7 @@ EntitySpaceTransform
 EntityToHighlight
 EntityTransform
 Entries
+Entries().size
 Entry
 EntryComponent
 EntryInputActionLinearTransformHashList
@@ -3315,6 +3324,7 @@ FactionIdData
 FactionImage
 factionInEvent
 Factions
+Factions().size
 factor
 fade
 Fade
@@ -3586,6 +3596,7 @@ FriendlyScored
 FriendlySize
 FriendlyVisible
 Friends
+Friends().size
 FriendsData
 FriendsIcon
 FriendsSize
@@ -3735,6 +3746,7 @@ GlobalHudsActive
 GlobalHudsAlpha
 GlowWidth
 GoldMedalOverrides
+GoldMedalOverrides().size
 GoTo
 GotoActivating
 GotoActive
@@ -4179,15 +4191,18 @@ groupId
 GroupId
 GroupIdentifier
 GroupIdentifiers
+GroupIdentifiers().size
 GroupLevelsMouseControlSpeed
 GroupList
 GroupListSize
 GroupMembers
+GroupMembers().size
 GroupName
 GroupNameStringId
 GroupRequests
 GroupRequestsLow
 Groups
+Groups().size
 GroupTag
 Growth
 Guid
@@ -6172,6 +6187,7 @@ ItemDefAlias
 ItemDesc
 ItemDescription
 ItemDescriptions
+ItemDescriptions().size
 ItemId
 itemIndex
 ItemIndex
@@ -6181,6 +6197,7 @@ ItemOffset
 ItemPrice
 items
 Items
+Items().size
 ItemSelected
 ItemSubHeader
 ItemsVisible
@@ -6328,6 +6345,7 @@ LanguageFormat_TraditionalChinese
 LanguageIndex
 Languages
 LanguagesString
+LanguagesString().size
 LanguagesStringOpenHatch
 LanguageStringId
 laps
@@ -6724,6 +6742,7 @@ Looping
 LoopVoiceLines
 LootBoxData
 LootBoxes
+LootBoxes().size
 LootBoxId
 LootBoxIdData
 LoseTargetGraceTimeAP_OfficerTurret_DamageMult_Mode9
@@ -6975,6 +6994,7 @@ MessageCells
 MessageColor
 MessageId
 Messages
+Messages().size
 MessageStringId
 MessageStringIdOnEnter:HvsV_Intro_BobaJetPackOn
 MessageTextColor
@@ -7008,6 +7028,7 @@ MilestoneMetaDataId
 MilestoneName
 MilestoneNameStringId
 Milestones
+Milestones().size
 MilestonesCount
 MilestonesCountSliderValue
 MilestoneStats5
@@ -7079,6 +7100,7 @@ minWidth
 MinXOffset
 MinYOffset
 MissionCollectiblesUnlocks
+MissionCollectiblesUnlocks().size
 MissionDescriptionLocalizedStringId
 MissionFailedDescriptionId
 MissionIndex
@@ -7102,6 +7124,7 @@ MissionIndex9
 MissionName
 MissionNameLocalizedStringId
 Missions
+Missions().size
 Mix
 MixerStart
 MixerStop
@@ -7161,10 +7184,12 @@ ModeF
 ModelAnimationEntity
 ModeState
 ModifiedAbilityStarCardData
+ModifiedAbilityStarCardData().size
 Modifier
 ModifierGridSize
 ModifierIcon
 ModifiersMetaData
+ModifiersMetaData().size
 ModifierString
 ModifierText
 ModifierWidgetSize
@@ -7503,6 +7528,7 @@ ObjectiveNameVisible
 ObjectiveProgress
 ObjectiveProgressAlpha
 Objectives
+Objectives().size
 ObjectivesDefinition
 ObjectiveSize
 ObjectiveSpawned
@@ -7540,6 +7566,7 @@ OfferId
 OfferIndex
 OfferRarity
 Offers
+Offers().size
 OffersTriggerShakeProfile
 OffersUseRealTimeClock
 Office
@@ -8530,6 +8557,7 @@ OverridePrimaryTargetPositionn3
 OverrideProgress
 OverrideRadius
 Overrides
+Overrides().size
 OverrideScale
 OverrideScanlinesSettings
 OverrideScreenPosition
@@ -8780,6 +8808,7 @@ pilotZoomInputNextGameMode
 Ping
 PingColor
 Pingsites
+Pingsites().size
 PingSpotted
 pitch
 Pitch
@@ -8802,6 +8831,7 @@ PlanetKey
 PlanetName
 PlanetNameStarted
 Planets
+Planets().size
 PlateType
 Platform
 Platform_Android
@@ -9014,6 +9044,7 @@ pos1
 pos2
 Pose
 Poses
+Poses().size
 PoseState
 PosGradientStart
 position
@@ -9153,6 +9184,7 @@ QuestCollection
 Question
 quests
 Quests
+Quests().size
 questsHitStatePosition
 QuickSpawn
 QuickThrowType
@@ -9294,6 +9326,7 @@ RefreshCooldown
 RefreshHeat
 RefreshRate
 RefreshRates
+RefreshRates().size
 RefreshShadow
 Regen
 RegenDelay
@@ -9400,6 +9433,7 @@ ResetTransition
 ResetValue
 ResetValuePrio2
 Resolutions
+Resolutions().size
 Resource
 ResourceRecharging
 ResourcesAmount
@@ -9654,6 +9688,7 @@ ScenarioName
 ScenarioNameId
 ScenarioNameIdAIDrivingBehavior
 Scenarios
+Scenarios().size
 ScenariosComplete
 ScenariosCompleted
 ScenarioSide
@@ -9685,6 +9720,7 @@ ScreenNameRotationOffset
 ScreenPos
 ScreenPosition
 Screens
+Screens().size
 ScreenSize
 screenWidth
 Scripted_ID
@@ -10234,6 +10270,7 @@ SignalFalse
 SignalTrue
 SignHero_KyloRen_MaxCount
 SilverMedalOverrides
+SilverMedalOverrides().size
 Simple
 SimpleDofFarEnd
 SimpleDofFarStart
@@ -10626,6 +10663,7 @@ StarCardRarity
 StarCardRect
 Starcards
 StarCards
+StarCards().size
 StarCards1
 StarCards2
 StarCards3
@@ -10746,6 +10784,7 @@ StartPhase3
 startPoint
 StartPoint
 StartPoints
+StartPoints().size
 startPos
 StartPos
 startPosScaleDown
@@ -11881,6 +11920,7 @@ UnlockAssetBase
 UnlockAssetIndex
 UnlockCount
 UnlockCriteria
+UnlockCriteria().size
 UnlockCriteriaConditionType
 UnlockCriteriaType
 UnlockCriteriaType_ClassRank
@@ -12205,6 +12245,7 @@ VoiceLineId
 VoiceLineIdData
 VoiceLineIndex
 VoiceLines
+VoiceLines().size
 VoiceLineTrigger
 VoiceOverLabelsPlayerCount
 Voip_Disabled
@@ -12405,6 +12446,7 @@ WebBrowser
 WebViewWidgetData
 WeeklyQuestData
 WeeklyQuests
+WeeklyQuests().size
 WeeklyQuestsList
 WeeklyQuestTitle
 WeeklyRewardText
