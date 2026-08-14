@@ -4678,6 +4678,7 @@ In_StartIntro
 In_StartOutroTeam1
 In_StartOutroTeam2
 In_StreamInIntro
+In_VictoryDeclarationDraw
 In_VictoryDeclarationTeam1Won
 In_VictoryDeclarationTeam2Won
 in0
@@ -8294,6 +8295,7 @@ Out_StreamInIntro
 Out_StreamInOutroT1
 Out_StreamInOutroT2
 Out_Vec3
+Out_VictoryDeclarationDraw
 Out_VictoryDeclarationTeam1Won
 Out_VictoryDeclarationTeam2Won
 Out0
