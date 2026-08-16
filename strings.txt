@@ -10546,6 +10546,7 @@ Speed
 Speed2
 Speed2RepairStarted
 SpeedBoost
+SpeedBoostStart
 Speeder
 Speederbike
 SpeederbikeLocation
@@ -10731,6 +10732,7 @@ StartFiring
 StartFiringHeavy
 StartFirstFrame
 StartFlicker
+StartForceExit
 StartFront
 StartFrontEnd
 StartFX
